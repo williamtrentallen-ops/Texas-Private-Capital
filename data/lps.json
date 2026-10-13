@@ -1,0 +1,310 @@
+[
+  {
+    "id": "texas-municipal-retirement-sample",
+    "name": "Gulf Plains Municipal Retirement System",
+    "type": "Public pension",
+    "city": "Austin",
+    "website": "https://gulfplainsmrs.example.gov",
+    "overview": "Statewide municipal pension with a private markets allocation run by a small internal team and an outside consultant.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Growth equity",
+        "Private credit"
+      ],
+      "sectors": [
+        "Industrials",
+        "Business Services",
+        "Healthcare Services",
+        "Energy Services"
+      ],
+      "fundSize": [
+        300,
+        3000
+      ],
+      "geo": "US; Texas-based managers considered under an in-state program",
+      "emerging": true
+    },
+    "provided": "public",
+    "confirmedAt": null,
+    "activity": [
+      {
+        "date": "2026-06-18",
+        "text": "Board approved a $75M commitment to a Texas lower-middle-market buyout fund.",
+        "source": "Board minutes (fictional)"
+      },
+      {
+        "date": "2026-02-11",
+        "text": "Issued an RFP for an emerging-manager private equity program.",
+        "source": "Procurement notice (fictional)"
+      }
+    ],
+    "contact": {
+      "title": "Director of Private Markets",
+      "email": "privatemarkets@gulfplainsmrs.example.gov"
+    },
+    "is_sample": true
+  },
+  {
+    "id": "brazos-university-endowment-sample",
+    "name": "Brazos University Endowment",
+    "type": "Endowment",
+    "city": "Houston",
+    "website": "https://endowment.brazos.example.edu",
+    "overview": "University endowment with a long-standing private equity program and a preference for sector specialists.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Growth equity",
+        "Venture"
+      ],
+      "sectors": [
+        "Software & Tech-Enabled Services",
+        "Healthcare Services",
+        "Industrials"
+      ],
+      "fundSize": [
+        150,
+        1500
+      ],
+      "geo": "Global",
+      "emerging": true
+    },
+    "provided": "direct",
+    "confirmedAt": "2026-09-14",
+    "activity": [
+      {
+        "date": "2026-04-02",
+        "text": "Annual report disclosed private equity at 24% of the portfolio.",
+        "source": "Annual report (fictional)"
+      }
+    ],
+    "contact": {
+      "title": "Managing Director, Private Investments",
+      "email": "privateinvestments@brazos.example.edu"
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-health-foundation-sample",
+    "name": "Alamo Health Foundation",
+    "type": "Foundation",
+    "city": "San Antonio",
+    "website": "https://alamohealthfoundation.example.org",
+    "overview": "Health conversion foundation with a mission-aligned private markets sleeve.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Growth equity"
+      ],
+      "sectors": [
+        "Healthcare Services"
+      ],
+      "fundSize": [
+        100,
+        1000
+      ],
+      "geo": "US",
+      "emerging": null
+    },
+    "provided": "public",
+    "confirmedAt": null,
+    "activity": [
+      {
+        "date": "2026-05-20",
+        "text": "Investment policy statement updated to allow first-time funds up to 10% of the private markets sleeve.",
+        "source": "Investment policy statement (fictional)"
+      }
+    ],
+    "contact": null,
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-insurance-group-sample",
+    "name": "Lone Star Mutual Insurance",
+    "type": "Insurance company",
+    "city": "Dallas",
+    "website": "https://lonestarmutual.example.com",
+    "overview": "Property and casualty insurer allocating surplus capital to private equity and private credit.",
+    "interests": {
+      "strategies": [
+        "Private credit",
+        "Buyout"
+      ],
+      "sectors": [
+        "Business Services",
+        "Financial Services",
+        "Distribution & Logistics"
+      ],
+      "fundSize": [
+        250,
+        2500
+      ],
+      "geo": "US",
+      "emerging": false
+    },
+    "provided": "direct",
+    "confirmedAt": "2026-08-27",
+    "activity": [],
+    "contact": {
+      "title": "Head of Alternatives",
+      "email": "alternatives@lonestarmutual.example.com"
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-family-lp-sample",
+    "name": "Hill Country Family Investments",
+    "type": "Family office (LP)",
+    "city": "Austin",
+    "website": "https://hcfi.example.com",
+    "overview": "Single-family office that commits to funds and co-invests alongside Texas managers.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Growth equity",
+        "Co-investment"
+      ],
+      "sectors": [
+        "Consumer",
+        "Food & Agriculture",
+        "Industrials",
+        "Software & Tech-Enabled Services"
+      ],
+      "fundSize": [
+        50,
+        750
+      ],
+      "geo": "Texas and Southwest preferred",
+      "emerging": true
+    },
+    "provided": "direct",
+    "confirmedAt": "2026-10-01",
+    "activity": [
+      {
+        "date": "2026-07-09",
+        "text": "Co-invested alongside a Texas sponsor in a consumer brand (terms not disclosed).",
+        "source": "Press announcement (fictional)"
+      }
+    ],
+    "contact": {
+      "title": "Chief Investment Officer",
+      "email": "cio@hcfi.example.com"
+    },
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-fund-of-funds-sample",
+    "name": "Panhandle Private Markets Fund of Funds",
+    "type": "Fund of funds",
+    "city": "Fort Worth",
+    "website": "https://panhandlepmf.example.com",
+    "overview": "Fund of funds focused on lower-middle-market and emerging managers in the South Central US.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Independent sponsor deals",
+        "Growth equity"
+      ],
+      "sectors": [
+        "Industrials",
+        "Business Services",
+        "Energy Services",
+        "Healthcare Services",
+        "Distribution & Logistics"
+      ],
+      "fundSize": [
+        75,
+        600
+      ],
+      "geo": "South Central US",
+      "emerging": true
+    },
+    "provided": "public",
+    "confirmedAt": null,
+    "activity": [
+      {
+        "date": "2026-03-15",
+        "text": "Closed Fund III at $410M with a stated focus on first- and second-time funds.",
+        "source": "Press release (fictional)"
+      }
+    ],
+    "contact": {
+      "title": "Partner",
+      "email": "managers@panhandlepmf.example.com"
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-ocio-sample",
+    "name": "Bayou Outsourced CIO",
+    "type": "Outsourced CIO",
+    "city": "Houston",
+    "website": "https://bayouocio.example.com",
+    "overview": "Discretionary OCIO for foundations and healthcare systems in the Gulf Coast region.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Private credit",
+        "Infrastructure"
+      ],
+      "sectors": [
+        "Infrastructure Services",
+        "Energy Services",
+        "Healthcare Services",
+        "Business Services"
+      ],
+      "fundSize": [
+        200,
+        2000
+      ],
+      "geo": "US",
+      "emerging": null
+    },
+    "provided": "public",
+    "confirmedAt": null,
+    "activity": [],
+    "contact": null,
+    "is_sample": true
+  },
+  {
+    "id": "rio-grande-teachers-sample",
+    "name": "Rio Grande Educators Retirement Trust",
+    "type": "Public pension",
+    "city": "San Antonio",
+    "website": "https://rgert.example.gov",
+    "overview": "Regional educators pension with a growing private equity allocation and a stated emphasis on fee transparency.",
+    "interests": {
+      "strategies": [
+        "Buyout",
+        "Secondaries"
+      ],
+      "sectors": [
+        "Industrials",
+        "Business Services",
+        "Consumer",
+        "Healthcare Services"
+      ],
+      "fundSize": [
+        500,
+        5000
+      ],
+      "geo": "US",
+      "emerging": false
+    },
+    "provided": "public",
+    "confirmedAt": null,
+    "activity": [
+      {
+        "date": "2026-08-05",
+        "text": "Trustees raised the private equity target allocation from 10% to 13%.",
+        "source": "Board minutes (fictional)"
+      }
+    ],
+    "contact": {
+      "title": "Private Equity Portfolio Manager",
+      "email": "pe@rgert.example.gov"
+    },
+    "is_sample": true
+  }
+]

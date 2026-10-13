@@ -1,0 +1,5184 @@
+[
+  {
+    "id": "trinity-ridge",
+    "name": "Trinity Ridge Partners",
+    "type": "pe",
+    "city": "Dallas",
+    "offices": [],
+    "ind": [
+      "Business Services",
+      "Industrials"
+    ],
+    "sub": [
+      "Facility services",
+      "Testing & inspection",
+      "Specialty manufacturing"
+    ],
+    "eb": [
+      5,
+      25
+    ],
+    "chk": [
+      25,
+      100
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund IV, $650M (2024)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": false,
+      "role": "lead",
+      "equity": "Sponsor co-invests 2–5% of equity"
+    },
+    "geo": [
+      "Texas",
+      "Southwest",
+      "Southeast"
+    ],
+    "excl": [
+      "Early-stage",
+      "Real estate",
+      "Oil & gas E&P"
+    ],
+    "prio": "Add-ons for three existing platforms in route-based services; one new platform in testing, inspection and compliance.",
+    "status": "active",
+    "conf": "2026-09-18",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "confirmed",
+      "geo": "public"
+    },
+    "founded": 2009,
+    "domain": "trinityridgepartners.example.com",
+    "website": "https://trinityridgepartners.example.com",
+    "team": [
+      {
+        "name": "Tobias Pruitt",
+        "title": "Managing Partner",
+        "email": "tobias.pruitt@trinityridgepartners.example.com",
+        "phone": "(555) 012-4049",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Alexis Okafor",
+        "title": "Partner",
+        "email": "alexis.okafor@trinityridgepartners.example.com",
+        "phone": "(555) 015-7538",
+        "focus": "Industrials",
+        "fs": "public"
+      },
+      {
+        "name": "Claire Fontenot",
+        "title": "Principal",
+        "email": "claire.fontenot@trinityridgepartners.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      },
+      {
+        "name": "Caleb Sorensen",
+        "title": "Vice President, Business Development",
+        "email": "caleb.sorensen@trinityridgepartners.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Priya Raman",
+        "title": "Senior Associate",
+        "email": "priya.raman@trinityridgepartners.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Coastal Solutions Group",
+        "sector": "Business Services",
+        "city": "Fort Worth",
+        "year": 2023,
+        "status": "Exited"
+      },
+      {
+        "name": "Bright Start Manufacturing",
+        "sector": "Industrials",
+        "city": "San Antonio",
+        "year": 2024,
+        "status": "Current"
+      },
+      {
+        "name": "Bluebonnet Solutions Group",
+        "sector": "Business Services",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-08-12",
+        "type": "Add-on acquisition",
+        "target": "Lonestar Partners",
+        "sector": "Business Services",
+        "note": "Coastal Solutions Group acquired Lonestar Partners as an add-on."
+      },
+      {
+        "date": "2026-04-06",
+        "type": "Add-on acquisition",
+        "target": "Summit Solutions Group",
+        "sector": "Business Services",
+        "note": "Bluebonnet Solutions Group acquired Summit Solutions Group as an add-on."
+      },
+      {
+        "date": "2026-01-29",
+        "type": "Add-on acquisition",
+        "target": "Sabine Fabrication",
+        "sector": "Industrials",
+        "note": "Bright Start Manufacturing acquired Sabine Fabrication as an add-on."
+      },
+      {
+        "date": "2024-03-14",
+        "type": "Platform acquisition",
+        "target": "Bright Start Manufacturing",
+        "sector": "Industrials",
+        "note": "Acquired Bright Start Manufacturing (San Antonio) as a new platform."
+      },
+      {
+        "date": "2023-08-09",
+        "type": "Platform acquisition",
+        "target": "Coastal Solutions Group",
+        "sector": "Business Services",
+        "note": "Acquired Coastal Solutions Group (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2019-12-18",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Solutions Group",
+        "sector": "Business Services",
+        "note": "Acquired Bluebonnet Solutions Group (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://trinityridgepartners.example.com/criteria",
+        "date": "2026-08-15",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://trinityridgepartners.example.com/team",
+        "date": "2026-09-01",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/trinity-ridge-partners-announcement",
+        "date": "2026-05-05",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-18",
+        "fields": [
+          "eb",
+          "chk",
+          "prio",
+          "backsIS",
+          "isPref"
+        ]
+      }
+    ],
+    "updated": "2026-09-18",
+    "overview": "Trinity Ridge Partners is a Dallas-based pe firm founded in 2009, focused on business services and industrials businesses primarily in Texas and Southwest. The firm invests from committed funds (Fund IV, $650M (2024)).",
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap",
+    "name": "Bayou City Capital",
+    "type": "pe",
+    "city": "Houston",
+    "offices": [
+      "Dallas"
+    ],
+    "ind": [
+      "Energy Services",
+      "Industrials",
+      "Infrastructure Services"
+    ],
+    "sub": [
+      "Midstream services",
+      "Industrial maintenance",
+      "Environmental services"
+    ],
+    "eb": [
+      10,
+      50
+    ],
+    "chk": [
+      50,
+      200
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund III, $1.1B (2023)",
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "Texas",
+      "Gulf Coast",
+      "US"
+    ],
+    "excl": [
+      "Upstream E&P",
+      "Consumer",
+      "Healthcare"
+    ],
+    "prio": "Energy transition services and electrical infrastructure contractors with recurring maintenance revenue.",
+    "status": "active",
+    "conf": "2026-08-30",
+    "fs": {
+      "eb": "public",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "geo": "public"
+    },
+    "founded": 2006,
+    "domain": "bayoucitycapital.example.com",
+    "website": "https://bayoucitycapital.example.com",
+    "team": [
+      {
+        "name": "Alexis Pruitt",
+        "title": "Managing Partner",
+        "email": "alexis.pruitt@bayoucitycapital.example.com",
+        "phone": "(555) 011-3760",
+        "focus": "Infrastructure Services",
+        "fs": "public"
+      },
+      {
+        "name": "Rafael Pruitt",
+        "title": "Partner",
+        "email": "rafael.pruitt@bayoucitycapital.example.com",
+        "phone": "(555) 010-5312",
+        "focus": "Infrastructure Services",
+        "fs": "public"
+      },
+      {
+        "name": "Nadia Sorensen",
+        "title": "Principal",
+        "email": "nadia.sorensen@bayoucitycapital.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Coastal Energy Services",
+        "sector": "Energy Services",
+        "city": "Austin",
+        "year": 2020,
+        "status": "Current"
+      },
+      {
+        "name": "Granite Manufacturing",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2024,
+        "status": "Current"
+      },
+      {
+        "name": "Apex Field Services",
+        "sector": "Energy Services",
+        "city": "Fort Worth",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Lonestar Compression",
+        "sector": "Energy Services",
+        "city": "San Antonio",
+        "year": 2020,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-04-28",
+        "type": "Add-on acquisition",
+        "target": "Mission Compression",
+        "sector": "Energy Services",
+        "note": "Lonestar Compression acquired Mission Compression as an add-on."
+      },
+      {
+        "date": "2026-03-16",
+        "type": "Add-on acquisition",
+        "target": "Canyon Industries",
+        "sector": "Industrials",
+        "note": "Granite Manufacturing acquired Canyon Industries as an add-on."
+      },
+      {
+        "date": "2025-06-14",
+        "type": "Platform acquisition",
+        "target": "Apex Field Services",
+        "sector": "Energy Services",
+        "note": "Acquired Apex Field Services (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2024-09-06",
+        "type": "Platform acquisition",
+        "target": "Granite Manufacturing",
+        "sector": "Industrials",
+        "note": "Acquired Granite Manufacturing (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2020-12-18",
+        "type": "Platform acquisition",
+        "target": "Coastal Energy Services",
+        "sector": "Energy Services",
+        "note": "Acquired Coastal Energy Services (Austin) as a new platform."
+      },
+      {
+        "date": "2020-07-01",
+        "type": "Platform acquisition",
+        "target": "Lonestar Compression",
+        "sector": "Energy Services",
+        "note": "Acquired Lonestar Compression (San Antonio) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://bayoucitycapital.example.com/criteria",
+        "date": "2026-08-18",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://bayoucitycapital.example.com/team",
+        "date": "2026-08-13",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/bayou-city-capital-announcement",
+        "date": "2026-09-02",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-08-30",
+        "fields": [
+          "prio",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-08-30",
+    "overview": "Bayou City Capital is a Houston-based pe firm founded in 2006, focused on energy services and industrials businesses primarily in Texas and Gulf Coast. The firm invests from committed funds (Fund III, $1.1B (2023)).",
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-growth",
+    "name": "Hill Country Growth Equity",
+    "type": "pe",
+    "city": "Austin",
+    "offices": [],
+    "ind": [
+      "Software & Tech-Enabled Services",
+      "Business Services"
+    ],
+    "sub": [
+      "Vertical SaaS",
+      "Payments",
+      "Tech-enabled services"
+    ],
+    "eb": [
+      2,
+      15
+    ],
+    "chk": [
+      10,
+      60
+    ],
+    "ctrl": [
+      "minority",
+      "control"
+    ],
+    "deal": [
+      "platform"
+    ],
+    "cap": "committed",
+    "fund": "Fund II, $340M (2025)",
+    "backsIS": null,
+    "isPref": null,
+    "geo": [
+      "Texas",
+      "US"
+    ],
+    "excl": [
+      "Hardware",
+      "Consumer apps",
+      "Pre-revenue"
+    ],
+    "prio": "Bootstrapped vertical software businesses with $5M+ ARR seeking first institutional capital.",
+    "status": "active",
+    "conf": "2026-07-11",
+    "fs": {
+      "eb": "public",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "nd",
+      "geo": "public"
+    },
+    "founded": 2017,
+    "domain": "hillcountrygrowthequity.example.com",
+    "website": "https://hillcountrygrowthequity.example.com",
+    "team": [
+      {
+        "name": "Priya Sorensen",
+        "title": "Managing Partner",
+        "email": "priya.sorensen@hillcountrygrowthequity.example.com",
+        "phone": "(555) 018-6759",
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "public"
+      },
+      {
+        "name": "Amara Raman",
+        "title": "Partner",
+        "email": "amara.raman@hillcountrygrowthequity.example.com",
+        "phone": "(555) 012-3776",
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "public"
+      },
+      {
+        "name": "Rafael Vega",
+        "title": "Principal",
+        "email": "rafael.vega@hillcountrygrowthequity.example.com",
+        "phone": null,
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Victor Morales",
+        "title": "Vice President, Business Development",
+        "email": "victor.morales@hillcountrygrowthequity.example.com",
+        "phone": null,
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Thomas Brennan",
+        "title": "Senior Associate",
+        "email": "thomas.brennan@hillcountrygrowthequity.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Bright Start Systems",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Fort Worth",
+        "year": 2024,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Services",
+        "sector": "Business Services",
+        "city": "Dallas",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Frontier Systems",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Houston",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Bluebonnet Solutions Group",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Bluebonnet Software",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Dallas",
+        "year": 2025,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-08-08",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Software",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Bluebonnet Software (Dallas) as a new platform."
+      },
+      {
+        "date": "2025-04-09",
+        "type": "Platform acquisition",
+        "target": "Meridian Services",
+        "sector": "Business Services",
+        "note": "Acquired Meridian Services (Dallas) as a new platform."
+      },
+      {
+        "date": "2024-09-24",
+        "type": "Platform acquisition",
+        "target": "Bright Start Systems",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Bright Start Systems (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2022-03-08",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Solutions Group",
+        "sector": "Business Services",
+        "note": "Acquired Bluebonnet Solutions Group (Houston) as a new platform."
+      },
+      {
+        "date": "2021-03-10",
+        "type": "Platform acquisition",
+        "target": "Frontier Systems",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Frontier Systems (Houston) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://hillcountrygrowthequity.example.com/criteria",
+        "date": "2026-09-18",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://hillcountrygrowthequity.example.com/team",
+        "date": "2026-08-04",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/hill-country-growth-equity-announcement",
+        "date": "2026-02-18",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-07-11",
+        "fields": [
+          "chk",
+          "ctrl",
+          "prio"
+        ]
+      }
+    ],
+    "updated": "2026-09-18",
+    "overview": "Hill Country Growth Equity is a Austin-based pe firm founded in 2017, focused on software & tech-enabled services and business services businesses primarily in Texas and US. The firm invests from committed funds (Fund II, $340M (2025)).",
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings",
+    "name": "Alamo Plaza Holdings",
+    "type": "fo",
+    "city": "San Antonio",
+    "offices": [],
+    "ind": [
+      "Consumer",
+      "Food & Agriculture",
+      "Distribution & Logistics"
+    ],
+    "sub": [
+      "Branded food",
+      "Restaurant franchisees",
+      "Specialty distribution"
+    ],
+    "eb": [
+      3,
+      15
+    ],
+    "chk": [
+      10,
+      50
+    ],
+    "ctrl": [
+      "control",
+      "minority"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "family",
+    "fund": null,
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "lead or co-invest",
+      "equity": "Flexible; prefers sponsor to invest meaningful personal capital"
+    },
+    "geo": [
+      "Texas",
+      "Southwest"
+    ],
+    "excl": [
+      "Tobacco",
+      "Gaming",
+      "Energy"
+    ],
+    "prio": "Family-owned consumer and food businesses where the family wants a long-term partner rather than a five-year exit.",
+    "status": "active",
+    "conf": "2026-09-02",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "confirmed",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "confirmed",
+      "geo": "confirmed"
+    },
+    "founded": 1998,
+    "domain": "alamoplazaholdings.example.com",
+    "website": "https://alamoplazaholdings.example.com",
+    "team": [
+      {
+        "name": "Amara Thackeray",
+        "title": "Managing Director",
+        "email": "amara.thackeray@alamoplazaholdings.example.com",
+        "phone": "(555) 014-9973",
+        "focus": "Distribution & Logistics",
+        "fs": "public"
+      },
+      {
+        "name": "Nadia Lindqvist",
+        "title": "Director of Direct Investments",
+        "email": "nadia.lindqvist@alamoplazaholdings.example.com",
+        "phone": "(555) 015-7743",
+        "focus": "Consumer",
+        "fs": "public"
+      },
+      {
+        "name": "Caleb Nakamura",
+        "title": "Principal",
+        "email": "caleb.nakamura@alamoplazaholdings.example.com",
+        "phone": null,
+        "focus": "Distribution & Logistics",
+        "fs": "inferred"
+      },
+      {
+        "name": "Grant Delgado",
+        "title": "Investment Associate",
+        "email": "grant.delgado@alamoplazaholdings.example.com",
+        "phone": null,
+        "focus": "Distribution & Logistics",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Canyon Logistics",
+        "sector": "Distribution & Logistics",
+        "city": "Dallas",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Coastal Foods",
+        "sector": "Food & Agriculture",
+        "city": "Austin",
+        "year": 2020,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Supply",
+        "sector": "Distribution & Logistics",
+        "city": "Fort Worth",
+        "year": 2020,
+        "status": "Exited"
+      },
+      {
+        "name": "Coastal Provisions",
+        "sector": "Food & Agriculture",
+        "city": "Austin",
+        "year": 2024,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-09-01",
+        "type": "Add-on acquisition",
+        "target": "Summit Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Meridian Supply acquired Summit Supply as an add-on."
+      },
+      {
+        "date": "2026-08-30",
+        "type": "Add-on acquisition",
+        "target": "Coastal Farms",
+        "sector": "Food & Agriculture",
+        "note": "Coastal Foods acquired Coastal Farms as an add-on."
+      },
+      {
+        "date": "2026-04-23",
+        "type": "Add-on acquisition",
+        "target": "Prairie Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Canyon Logistics acquired Prairie Supply as an add-on."
+      },
+      {
+        "date": "2025-12-02",
+        "type": "Add-on acquisition",
+        "target": "Bright Start Provisions",
+        "sector": "Food & Agriculture",
+        "note": "Coastal Provisions acquired Bright Start Provisions as an add-on."
+      },
+      {
+        "date": "2025-08-24",
+        "type": "Platform acquisition",
+        "target": "Canyon Logistics",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Canyon Logistics (Dallas) as a new platform."
+      },
+      {
+        "date": "2024-10-19",
+        "type": "Platform acquisition",
+        "target": "Coastal Provisions",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Coastal Provisions (Austin) as a new platform."
+      },
+      {
+        "date": "2020-11-22",
+        "type": "Platform acquisition",
+        "target": "Meridian Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Meridian Supply (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2020-01-26",
+        "type": "Platform acquisition",
+        "target": "Coastal Foods",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Coastal Foods (Austin) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://alamoplazaholdings.example.com/criteria",
+        "date": "2026-09-24",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://alamoplazaholdings.example.com/team",
+        "date": "2026-08-23",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+        "date": "2026-02-12",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-02",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "cap",
+          "prio",
+          "backsIS",
+          "isPref",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-09-24",
+    "overview": "Alamo Plaza Holdings is a San Antonio-based family office founded in 1998, focused on consumer and food & agriculture businesses primarily in Texas and Southwest. The firm invests permanent family capital with flexible hold periods.",
+    "is_sample": true
+  },
+  {
+    "id": "cowtown-capital",
+    "name": "Cowtown Capital Partners",
+    "type": "is",
+    "city": "Fort Worth",
+    "offices": [],
+    "ind": [
+      "Industrials",
+      "Distribution & Logistics"
+    ],
+    "sub": [
+      "Metal fabrication",
+      "Industrial distribution",
+      "Aerospace components"
+    ],
+    "eb": [
+      2,
+      8
+    ],
+    "chk": [
+      5,
+      25
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "deal-by-deal",
+    "fund": null,
+    "backsIS": null,
+    "isPref": null,
+    "geo": [
+      "Texas",
+      "Oklahoma"
+    ],
+    "excl": [
+      "Services without hard assets",
+      "Retail"
+    ],
+    "prio": "Second platform acquisition in precision machining; actively seeking equity partners for a signed LOI.",
+    "status": "active",
+    "conf": "2026-10-01",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "confirmed",
+      "prio": "confirmed",
+      "backsIS": "nd",
+      "geo": "confirmed"
+    },
+    "founded": 2019,
+    "domain": "cowtowncapitalpartners.example.com",
+    "website": "https://cowtowncapitalpartners.example.com",
+    "team": [
+      {
+        "name": "Rafael Sorensen",
+        "title": "Managing Partner",
+        "email": "rafael.sorensen@cowtowncapitalpartners.example.com",
+        "phone": "(555) 013-2654",
+        "focus": "Distribution & Logistics",
+        "fs": "public"
+      },
+      {
+        "name": "Lucia Nakamura",
+        "title": "Partner",
+        "email": "lucia.nakamura@cowtowncapitalpartners.example.com",
+        "phone": "(555) 010-8086",
+        "focus": "Distribution & Logistics",
+        "fs": "public"
+      },
+      {
+        "name": "Amara Whitfield",
+        "title": "Associate",
+        "email": "amara.whitfield@cowtowncapitalpartners.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Prairie Industries",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2019-03-08",
+        "type": "Platform acquisition",
+        "target": "Prairie Industries",
+        "sector": "Industrials",
+        "note": "Acquired Prairie Industries (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://cowtowncapitalpartners.example.com/criteria",
+        "date": "2026-08-18",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://cowtowncapitalpartners.example.com/team",
+        "date": "2026-08-28",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/cowtown-capital-partners-announcement",
+        "date": "2026-02-11",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-10-01",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "cap",
+          "prio",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-10-01",
+    "overview": "Cowtown Capital Partners is a Fort Worth-based independent sponsor founded in 2019, focused on industrials and distribution & logistics businesses primarily in Texas and Oklahoma. The firm sources transactions first and raises equity from investors on a deal-by-deal basis.",
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health",
+    "name": "Lone Star Health Partners",
+    "type": "pe",
+    "city": "Dallas",
+    "offices": [
+      "Houston"
+    ],
+    "ind": [
+      "Healthcare Services"
+    ],
+    "sub": [
+      "Physician practice management",
+      "Behavioral health",
+      "Home health & hospice"
+    ],
+    "eb": [
+      3,
+      20
+    ],
+    "chk": [
+      15,
+      80
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund III, $520M (2024)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": false,
+      "role": "lead",
+      "equity": "Sponsor rolls promote; 1–3% cash co-invest expected"
+    },
+    "geo": [
+      "Texas",
+      "Southeast",
+      "Mountain West"
+    ],
+    "excl": [
+      "Pharma",
+      "Device manufacturing",
+      "Payors"
+    ],
+    "prio": "Multi-site specialty physician groups in Texas and the Southeast; paused on behavioral health platforms pending reimbursement clarity.",
+    "status": "selective",
+    "conf": "2026-06-20",
+    "fs": {
+      "eb": "public",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "public",
+      "isPref": "inferred",
+      "geo": "public"
+    },
+    "founded": 2011,
+    "domain": "lonestarhealthpartners.example.com",
+    "website": "https://lonestarhealthpartners.example.com",
+    "team": [
+      {
+        "name": "Marcus Oyelaran",
+        "title": "Managing Partner",
+        "email": "marcus.oyelaran@lonestarhealthpartners.example.com",
+        "phone": "(555) 018-2105",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Priya Okafor",
+        "title": "Partner",
+        "email": "priya.okafor@lonestarhealthpartners.example.com",
+        "phone": "(555) 011-6895",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Elena Delgado",
+        "title": "Principal",
+        "email": "elena.delgado@lonestarhealthpartners.example.com",
+        "phone": null,
+        "focus": "Healthcare Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Hector Castellanos",
+        "title": "Vice President, Business Development",
+        "email": "hector.castellanos@lonestarhealthpartners.example.com",
+        "phone": null,
+        "focus": "Healthcare Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Bright Start Medical Group",
+        "sector": "Healthcare Services",
+        "city": "Austin",
+        "year": 2020,
+        "status": "Current"
+      },
+      {
+        "name": "Cedar Care Partners",
+        "sector": "Healthcare Services",
+        "city": "San Antonio",
+        "year": 2020,
+        "status": "Current"
+      },
+      {
+        "name": "Coastal Care Partners",
+        "sector": "Healthcare Services",
+        "city": "Dallas",
+        "year": 2024,
+        "status": "Exited"
+      },
+      {
+        "name": "Coastal Health",
+        "sector": "Healthcare Services",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Sabine Medical Group",
+        "sector": "Healthcare Services",
+        "city": "Dallas",
+        "year": 2024,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-04-11",
+        "type": "Add-on acquisition",
+        "target": "Bluebonnet Health",
+        "sector": "Healthcare Services",
+        "note": "Cedar Care Partners acquired Bluebonnet Health as an add-on."
+      },
+      {
+        "date": "2026-04-11",
+        "type": "Add-on acquisition",
+        "target": "Pioneer Health",
+        "sector": "Healthcare Services",
+        "note": "Coastal Health acquired Pioneer Health as an add-on."
+      },
+      {
+        "date": "2025-09-28",
+        "type": "Add-on acquisition",
+        "target": "Coastal Medical Group",
+        "sector": "Healthcare Services",
+        "note": "Coastal Care Partners acquired Coastal Medical Group as an add-on."
+      },
+      {
+        "date": "2024-06-04",
+        "type": "Platform acquisition",
+        "target": "Coastal Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Acquired Coastal Care Partners (Dallas) as a new platform."
+      },
+      {
+        "date": "2024-04-02",
+        "type": "Platform acquisition",
+        "target": "Sabine Medical Group",
+        "sector": "Healthcare Services",
+        "note": "Acquired Sabine Medical Group (Dallas) as a new platform."
+      },
+      {
+        "date": "2020-02-10",
+        "type": "Platform acquisition",
+        "target": "Cedar Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Acquired Cedar Care Partners (San Antonio) as a new platform."
+      },
+      {
+        "date": "2020-01-07",
+        "type": "Platform acquisition",
+        "target": "Bright Start Medical Group",
+        "sector": "Healthcare Services",
+        "note": "Acquired Bright Start Medical Group (Austin) as a new platform."
+      },
+      {
+        "date": "2019-11-07",
+        "type": "Platform acquisition",
+        "target": "Coastal Health",
+        "sector": "Healthcare Services",
+        "note": "Acquired Coastal Health (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://lonestarhealthpartners.example.com/criteria",
+        "date": "2026-08-04",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://lonestarhealthpartners.example.com/team",
+        "date": "2026-08-28",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/lone-star-health-partners-announcement",
+        "date": "2026-08-02",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-06-20",
+        "fields": [
+          "prio"
+        ]
+      }
+    ],
+    "updated": "2026-08-04",
+    "overview": "Lone Star Health Partners is a Dallas-based pe firm founded in 2011, focused on healthcare services businesses primarily in Texas and Southeast. The firm invests from committed funds (Fund III, $520M (2024)).",
+    "is_sample": true
+  },
+  {
+    "id": "brazos-river-fo",
+    "name": "Brazos River Family Office",
+    "type": "fo",
+    "city": "Houston",
+    "offices": [
+      "Austin"
+    ],
+    "ind": [
+      "Industrials",
+      "Infrastructure Services",
+      "Energy Services"
+    ],
+    "sub": [
+      "Water infrastructure",
+      "Utility services",
+      "Equipment rental"
+    ],
+    "eb": [
+      5,
+      30
+    ],
+    "chk": [
+      20,
+      120
+    ],
+    "ctrl": [
+      "minority",
+      "control"
+    ],
+    "deal": [
+      "platform"
+    ],
+    "cap": "family",
+    "fund": null,
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "co-invest",
+      "equity": "Not disclosed"
+    },
+    "geo": [
+      "Texas",
+      "US"
+    ],
+    "excl": [
+      "Early-stage technology",
+      "Real estate development"
+    ],
+    "prio": "Not disclosed",
+    "status": "active",
+    "conf": null,
+    "fs": {
+      "eb": "inferred",
+      "chk": "inferred",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "nd",
+      "backsIS": "public",
+      "isPref": "public",
+      "geo": "public"
+    },
+    "founded": 2004,
+    "domain": "brazosriverfamilyoffice.example.com",
+    "website": "https://brazosriverfamilyoffice.example.com",
+    "team": [
+      {
+        "name": "Victor Castellanos",
+        "title": "Managing Director",
+        "email": "victor.castellanos@brazosriverfamilyoffice.example.com",
+        "phone": "(555) 016-9585",
+        "focus": "Infrastructure Services",
+        "fs": "public"
+      },
+      {
+        "name": "Tobias Haddad",
+        "title": "Director of Direct Investments",
+        "email": "tobias.haddad@brazosriverfamilyoffice.example.com",
+        "phone": "(555) 010-4250",
+        "focus": "Energy Services",
+        "fs": "public"
+      },
+      {
+        "name": "Daniel Nakamura",
+        "title": "Principal",
+        "email": "daniel.nakamura@brazosriverfamilyoffice.example.com",
+        "phone": null,
+        "focus": "Infrastructure Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Hannah Ibarra",
+        "title": "Investment Associate",
+        "email": "hannah.ibarra@brazosriverfamilyoffice.example.com",
+        "phone": null,
+        "focus": "Energy Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Pioneer Fabrication",
+        "sector": "Industrials",
+        "city": "Houston",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Lonestar Field Services",
+        "sector": "Energy Services",
+        "city": "Dallas",
+        "year": 2022,
+        "status": "Exited"
+      },
+      {
+        "name": "Bluebonnet Compression",
+        "sector": "Energy Services",
+        "city": "Houston",
+        "year": 2025,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-04-26",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Compression",
+        "sector": "Energy Services",
+        "note": "Acquired Bluebonnet Compression (Houston) as a new platform."
+      },
+      {
+        "date": "2022-01-23",
+        "type": "Platform acquisition",
+        "target": "Lonestar Field Services",
+        "sector": "Energy Services",
+        "note": "Acquired Lonestar Field Services (Dallas) as a new platform."
+      },
+      {
+        "date": "2021-04-07",
+        "type": "Platform acquisition",
+        "target": "Pioneer Fabrication",
+        "sector": "Industrials",
+        "note": "Acquired Pioneer Fabrication (Houston) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://brazosriverfamilyoffice.example.com/criteria",
+        "date": "2026-08-29",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://brazosriverfamilyoffice.example.com/team",
+        "date": "2026-09-02",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/brazos-river-family-office-announcement",
+        "date": "2026-01-26",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      }
+    ],
+    "updated": "2026-08-29",
+    "overview": "Brazos River Family Office is a Houston-based family office founded in 2004, focused on industrials and infrastructure services businesses primarily in Texas and US. The firm invests permanent family capital with flexible hold periods.",
+    "is_sample": true
+  },
+  {
+    "id": "capital-metro-ventures",
+    "name": "Capitol Metro Partners",
+    "type": "is",
+    "city": "Austin",
+    "offices": [],
+    "ind": [
+      "Software & Tech-Enabled Services",
+      "Business Services"
+    ],
+    "sub": [
+      "IT services",
+      "Managed services",
+      "Compliance services"
+    ],
+    "eb": [
+      1,
+      6
+    ],
+    "chk": [
+      3,
+      20
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform"
+    ],
+    "cap": "deal-by-deal",
+    "fund": null,
+    "backsIS": null,
+    "isPref": null,
+    "geo": [
+      "Texas"
+    ],
+    "excl": [
+      "Capital-intensive businesses"
+    ],
+    "prio": "Founder-led managed service providers with $1–4M EBITDA in central Texas.",
+    "status": "active",
+    "conf": "2026-09-25",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "confirmed",
+      "prio": "confirmed",
+      "backsIS": "nd",
+      "geo": "confirmed"
+    },
+    "founded": 2021,
+    "domain": "capitolmetropartners.example.com",
+    "website": "https://capitolmetropartners.example.com",
+    "team": [
+      {
+        "name": "Marcus Abernathy",
+        "title": "Managing Partner",
+        "email": "marcus.abernathy@capitolmetropartners.example.com",
+        "phone": "(555) 011-5299",
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "public"
+      },
+      {
+        "name": "Alexis Castellanos",
+        "title": "Partner",
+        "email": "alexis.castellanos@capitolmetropartners.example.com",
+        "phone": "(555) 013-4281",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Sofia Sorensen",
+        "title": "Associate",
+        "email": "sofia.sorensen@capitolmetropartners.example.com",
+        "phone": null,
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Granite Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Fort Worth",
+        "year": 2024,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Partners",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2024,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2024-11-02",
+        "type": "Platform acquisition",
+        "target": "Granite Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Granite Technologies (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2024-09-22",
+        "type": "Platform acquisition",
+        "target": "Meridian Partners",
+        "sector": "Business Services",
+        "note": "Acquired Meridian Partners (Houston) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://capitolmetropartners.example.com/criteria",
+        "date": "2026-08-04",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://capitolmetropartners.example.com/team",
+        "date": "2026-08-29",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/capitol-metro-partners-announcement",
+        "date": "2026-03-25",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-25",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "cap",
+          "prio",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-09-25",
+    "overview": "Capitol Metro Partners is a Austin-based independent sponsor founded in 2021, focused on software & tech-enabled services and business services businesses primarily in Texas. The firm sources transactions first and raises equity from investors on a deal-by-deal basis.",
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial",
+    "name": "Mesquite Industrial Partners",
+    "type": "pe",
+    "city": "Dallas",
+    "offices": [
+      "Fort Worth"
+    ],
+    "ind": [
+      "Industrials",
+      "Distribution & Logistics"
+    ],
+    "sub": [
+      "Building products",
+      "Packaging",
+      "Industrial distribution"
+    ],
+    "eb": [
+      8,
+      40
+    ],
+    "chk": [
+      40,
+      150
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund V, $900M (2025)",
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "US",
+      "Canada"
+    ],
+    "excl": [
+      "Oil & gas",
+      "Healthcare",
+      "Software"
+    ],
+    "prio": "Building products and packaging platforms with pricing power and fragmented supplier bases.",
+    "status": "active",
+    "conf": "2026-08-12",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "public",
+      "backsIS": "confirmed",
+      "geo": "public"
+    },
+    "founded": 2003,
+    "domain": "mesquiteindustrialpartners.example.com",
+    "website": "https://mesquiteindustrialpartners.example.com",
+    "team": [
+      {
+        "name": "Marisol Lindqvist",
+        "title": "Managing Partner",
+        "email": "marisol.lindqvist@mesquiteindustrialpartners.example.com",
+        "phone": "(555) 014-2056",
+        "focus": "Distribution & Logistics",
+        "fs": "public"
+      },
+      {
+        "name": "Nadia Whitfield",
+        "title": "Partner",
+        "email": "nadia.whitfield@mesquiteindustrialpartners.example.com",
+        "phone": "(555) 012-1831",
+        "focus": "Industrials",
+        "fs": "public"
+      },
+      {
+        "name": "Owen Ibarra",
+        "title": "Principal",
+        "email": "owen.ibarra@mesquiteindustrialpartners.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      },
+      {
+        "name": "Sofia Whitfield",
+        "title": "Vice President, Business Development",
+        "email": "sofia.whitfield@mesquiteindustrialpartners.example.com",
+        "phone": null,
+        "focus": "Distribution & Logistics",
+        "fs": "inferred"
+      },
+      {
+        "name": "Renata Vega",
+        "title": "Senior Associate",
+        "email": "renata.vega@mesquiteindustrialpartners.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Canyon Supply",
+        "sector": "Distribution & Logistics",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Lonestar Logistics",
+        "sector": "Distribution & Logistics",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Exited"
+      },
+      {
+        "name": "Meridian Manufacturing",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2020,
+        "status": "Exited"
+      },
+      {
+        "name": "Canyon Distribution",
+        "sector": "Distribution & Logistics",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Exited"
+      },
+      {
+        "name": "Bluebonnet Distribution",
+        "sector": "Distribution & Logistics",
+        "city": "Fort Worth",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Industries",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2021,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-09-09",
+        "type": "Add-on acquisition",
+        "target": "Coastal Logistics",
+        "sector": "Distribution & Logistics",
+        "note": "Canyon Distribution acquired Coastal Logistics as an add-on."
+      },
+      {
+        "date": "2023-01-04",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Distribution",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Bluebonnet Distribution (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2022-12-22",
+        "type": "Platform acquisition",
+        "target": "Canyon Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Canyon Supply (Houston) as a new platform."
+      },
+      {
+        "date": "2022-01-16",
+        "type": "Platform acquisition",
+        "target": "Lonestar Logistics",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Lonestar Logistics (Houston) as a new platform."
+      },
+      {
+        "date": "2021-02-21",
+        "type": "Platform acquisition",
+        "target": "Meridian Industries",
+        "sector": "Industrials",
+        "note": "Acquired Meridian Industries (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2020-09-23",
+        "type": "Platform acquisition",
+        "target": "Meridian Manufacturing",
+        "sector": "Industrials",
+        "note": "Acquired Meridian Manufacturing (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2019-02-11",
+        "type": "Platform acquisition",
+        "target": "Canyon Distribution",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Canyon Distribution (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://mesquiteindustrialpartners.example.com/criteria",
+        "date": "2026-09-11",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://mesquiteindustrialpartners.example.com/team",
+        "date": "2026-08-21",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+        "date": "2025-11-19",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-08-12",
+        "fields": [
+          "eb",
+          "chk",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-09-11",
+    "overview": "Mesquite Industrial Partners is a Dallas-based pe firm founded in 2003, focused on industrials and distribution & logistics businesses across the United States. The firm invests from committed funds (Fund V, $900M (2025)).",
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth",
+    "name": "Gulf Stream Growth Partners",
+    "type": "pe",
+    "city": "Houston",
+    "offices": [],
+    "ind": [
+      "Healthcare Services",
+      "Business Services"
+    ],
+    "sub": [
+      "Dental support organizations",
+      "Veterinary",
+      "Staffing"
+    ],
+    "eb": [
+      2,
+      12
+    ],
+    "chk": [
+      10,
+      50
+    ],
+    "ctrl": [
+      "control",
+      "minority"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund I, $210M (2022)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "lead",
+      "equity": "Sponsor expected to co-invest at least 1% of equity"
+    },
+    "geo": [
+      "Texas",
+      "Louisiana",
+      "Oklahoma"
+    ],
+    "excl": [
+      "Hospitals",
+      "Life sciences"
+    ],
+    "prio": "Add-ons for Coastal Smiles Dental; new platform in veterinary services.",
+    "status": "active",
+    "conf": "2026-09-30",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "confirmed",
+      "geo": "confirmed"
+    },
+    "founded": 2021,
+    "domain": "gulfstreamgrowthpartners.example.com",
+    "website": "https://gulfstreamgrowthpartners.example.com",
+    "team": [
+      {
+        "name": "Claire Raman",
+        "title": "Managing Partner",
+        "email": "claire.raman@gulfstreamgrowthpartners.example.com",
+        "phone": "(555) 011-8175",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Elena Abernathy",
+        "title": "Partner",
+        "email": "elena.abernathy@gulfstreamgrowthpartners.example.com",
+        "phone": "(555) 010-2677",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Amara Lindqvist",
+        "title": "Principal",
+        "email": "amara.lindqvist@gulfstreamgrowthpartners.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Victor Lindqvist",
+        "title": "Vice President, Business Development",
+        "email": "victor.lindqvist@gulfstreamgrowthpartners.example.com",
+        "phone": null,
+        "focus": "Healthcare Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Longhorn Partners",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Mission Health",
+        "sector": "Healthcare Services",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Care Partners",
+        "sector": "Healthcare Services",
+        "city": "Dallas",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Prairie Care Partners",
+        "sector": "Healthcare Services",
+        "city": "Dallas",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Granite Health",
+        "sector": "Healthcare Services",
+        "city": "San Antonio",
+        "year": 2022,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-09-17",
+        "type": "Add-on acquisition",
+        "target": "Pioneer Health",
+        "sector": "Healthcare Services",
+        "note": "Granite Health acquired Pioneer Health as an add-on."
+      },
+      {
+        "date": "2025-08-18",
+        "type": "Add-on acquisition",
+        "target": "Granite Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Meridian Care Partners acquired Granite Care Partners as an add-on."
+      },
+      {
+        "date": "2025-07-02",
+        "type": "Add-on acquisition",
+        "target": "Longhorn Medical Group",
+        "sector": "Healthcare Services",
+        "note": "Mission Health acquired Longhorn Medical Group as an add-on."
+      },
+      {
+        "date": "2025-05-09",
+        "type": "Platform acquisition",
+        "target": "Meridian Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Acquired Meridian Care Partners (Dallas) as a new platform."
+      },
+      {
+        "date": "2025-03-14",
+        "type": "Platform acquisition",
+        "target": "Prairie Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Acquired Prairie Care Partners (Dallas) as a new platform."
+      },
+      {
+        "date": "2022-09-22",
+        "type": "Platform acquisition",
+        "target": "Mission Health",
+        "sector": "Healthcare Services",
+        "note": "Acquired Mission Health (Houston) as a new platform."
+      },
+      {
+        "date": "2022-02-11",
+        "type": "Platform acquisition",
+        "target": "Granite Health",
+        "sector": "Healthcare Services",
+        "note": "Acquired Granite Health (San Antonio) as a new platform."
+      },
+      {
+        "date": "2019-10-01",
+        "type": "Platform acquisition",
+        "target": "Longhorn Partners",
+        "sector": "Business Services",
+        "note": "Acquired Longhorn Partners (Houston) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://gulfstreamgrowthpartners.example.com/criteria",
+        "date": "2026-09-27",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://gulfstreamgrowthpartners.example.com/team",
+        "date": "2026-09-18",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+        "date": "2026-03-30",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-30",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "prio",
+          "backsIS",
+          "isPref",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-09-30",
+    "overview": "Gulf Stream Growth Partners is a Houston-based pe firm founded in 2021, focused on healthcare services and business services businesses primarily in Texas and Louisiana. The firm invests from committed funds (Fund I, $210M (2022)).",
+    "is_sample": true
+  },
+  {
+    "id": "pedernales-capital",
+    "name": "Pedernales Capital",
+    "type": "fo",
+    "city": "Austin",
+    "offices": [],
+    "ind": [
+      "Consumer",
+      "Software & Tech-Enabled Services",
+      "Food & Agriculture"
+    ],
+    "sub": [
+      "Outdoor & recreation",
+      "Direct-to-consumer brands",
+      "Specialty agriculture"
+    ],
+    "eb": [
+      1,
+      10
+    ],
+    "chk": [
+      5,
+      30
+    ],
+    "ctrl": [
+      "minority"
+    ],
+    "deal": [
+      "platform"
+    ],
+    "cap": "family",
+    "fund": null,
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "co-invest",
+      "equity": "Flexible"
+    },
+    "geo": [
+      "Texas",
+      "US"
+    ],
+    "excl": [
+      "Alcohol",
+      "Firearms"
+    ],
+    "prio": "Minority growth capital for Texas consumer brands with $10M+ revenue; considers co-investments alongside sponsors.",
+    "status": "active",
+    "conf": "2026-05-14",
+    "fs": {
+      "eb": "public",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "public",
+      "geo": "public"
+    },
+    "founded": 2012,
+    "domain": "pedernalescapital.example.com",
+    "website": "https://pedernalescapital.example.com",
+    "team": [
+      {
+        "name": "Lucia Vega",
+        "title": "Managing Director",
+        "email": "lucia.vega@pedernalescapital.example.com",
+        "phone": "(555) 015-3053",
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "public"
+      },
+      {
+        "name": "Nadia Raman",
+        "title": "Director of Direct Investments",
+        "email": "nadia.raman@pedernalescapital.example.com",
+        "phone": "(555) 016-3407",
+        "focus": "Consumer",
+        "fs": "public"
+      },
+      {
+        "name": "Renata Okafor",
+        "title": "Principal",
+        "email": "renata.okafor@pedernalescapital.example.com",
+        "phone": null,
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Hannah Mendez",
+        "title": "Investment Associate",
+        "email": "hannah.mendez@pedernalescapital.example.com",
+        "phone": null,
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Desmond Sorensen",
+        "title": "Investment Associate",
+        "email": "desmond.sorensen@pedernalescapital.example.com",
+        "phone": null,
+        "focus": "Software & Tech-Enabled Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Bluebonnet Farms",
+        "sector": "Food & Agriculture",
+        "city": "Dallas",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Summit Provisions",
+        "sector": "Food & Agriculture",
+        "city": "San Antonio",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Cedar Software",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Houston",
+        "year": 2025,
+        "status": "Exited"
+      },
+      {
+        "name": "Pioneer Provisions",
+        "sector": "Food & Agriculture",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Prairie Holdings",
+        "sector": "Consumer",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-12-10",
+        "type": "Platform acquisition",
+        "target": "Cedar Software",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Cedar Software (Houston) as a new platform."
+      },
+      {
+        "date": "2023-09-19",
+        "type": "Platform acquisition",
+        "target": "Summit Provisions",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Summit Provisions (San Antonio) as a new platform."
+      },
+      {
+        "date": "2022-05-27",
+        "type": "Platform acquisition",
+        "target": "Prairie Holdings",
+        "sector": "Consumer",
+        "note": "Acquired Prairie Holdings (Houston) as a new platform."
+      },
+      {
+        "date": "2021-02-23",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Farms",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Bluebonnet Farms (Dallas) as a new platform."
+      },
+      {
+        "date": "2019-11-11",
+        "type": "Platform acquisition",
+        "target": "Pioneer Provisions",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Pioneer Provisions (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://pedernalescapital.example.com/criteria",
+        "date": "2026-09-16",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://pedernalescapital.example.com/team",
+        "date": "2026-08-21",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/pedernales-capital-announcement",
+        "date": "2026-01-24",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-05-14",
+        "fields": [
+          "chk",
+          "ctrl",
+          "prio",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-09-16",
+    "overview": "Pedernales Capital is a Austin-based family office founded in 2012, focused on consumer and software & tech-enabled services businesses primarily in Texas and US. The firm invests permanent family capital with flexible hold periods.",
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz",
+    "name": "North Texas Structured Capital",
+    "type": "pe",
+    "city": "Dallas",
+    "offices": [],
+    "ind": [
+      "Business Services",
+      "Industrials",
+      "Distribution & Logistics",
+      "Healthcare Services"
+    ],
+    "sub": [
+      "Lower middle market, sector agnostic"
+    ],
+    "eb": [
+      3,
+      20
+    ],
+    "chk": [
+      5,
+      40
+    ],
+    "ctrl": [
+      "minority"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "SBIC Fund II, $280M (2023)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "co-invest",
+      "equity": "Sponsor must contribute at least $250K of personal capital"
+    },
+    "geo": [
+      "Texas",
+      "South Central US"
+    ],
+    "excl": [
+      "Real estate",
+      "Project finance",
+      "Technology pre-profit"
+    ],
+    "prio": "Structured equity and subordinated debt alongside independent sponsors; active across sectors.",
+    "status": "active",
+    "conf": "2026-10-05",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "confirmed",
+      "geo": "confirmed"
+    },
+    "founded": 2014,
+    "domain": "northtexasstructuredcapital.example.com",
+    "website": "https://northtexasstructuredcapital.example.com",
+    "team": [
+      {
+        "name": "Hector Delgado",
+        "title": "Managing Partner",
+        "email": "hector.delgado@northtexasstructuredcapital.example.com",
+        "phone": "(555) 017-7534",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Owen Brennan",
+        "title": "Partner",
+        "email": "owen.brennan@northtexasstructuredcapital.example.com",
+        "phone": "(555) 017-6711",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Owen Fontenot",
+        "title": "Principal",
+        "email": "owen.fontenot@northtexasstructuredcapital.example.com",
+        "phone": null,
+        "focus": "Distribution & Logistics",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Summit Logistics",
+        "sector": "Distribution & Logistics",
+        "city": "San Antonio",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Apex Manufacturing",
+        "sector": "Industrials",
+        "city": "Austin",
+        "year": 2019,
+        "status": "Exited"
+      },
+      {
+        "name": "Granite Distribution",
+        "sector": "Distribution & Logistics",
+        "city": "Austin",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Harbor Services",
+        "sector": "Business Services",
+        "city": "Dallas",
+        "year": 2023,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-06-02",
+        "type": "Add-on acquisition",
+        "target": "Meridian Logistics",
+        "sector": "Distribution & Logistics",
+        "note": "Granite Distribution acquired Meridian Logistics as an add-on."
+      },
+      {
+        "date": "2026-04-13",
+        "type": "Add-on acquisition",
+        "target": "Bluebonnet Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Summit Logistics acquired Bluebonnet Supply as an add-on."
+      },
+      {
+        "date": "2023-12-26",
+        "type": "Platform acquisition",
+        "target": "Harbor Services",
+        "sector": "Business Services",
+        "note": "Acquired Harbor Services (Dallas) as a new platform."
+      },
+      {
+        "date": "2023-12-14",
+        "type": "Platform acquisition",
+        "target": "Granite Distribution",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Granite Distribution (Austin) as a new platform."
+      },
+      {
+        "date": "2023-08-27",
+        "type": "Platform acquisition",
+        "target": "Summit Logistics",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Summit Logistics (San Antonio) as a new platform."
+      },
+      {
+        "date": "2019-10-06",
+        "type": "Platform acquisition",
+        "target": "Apex Manufacturing",
+        "sector": "Industrials",
+        "note": "Acquired Apex Manufacturing (Austin) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://northtexasstructuredcapital.example.com/criteria",
+        "date": "2026-08-04",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://northtexasstructuredcapital.example.com/team",
+        "date": "2026-08-23",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/north-texas-structured-capital-announcement",
+        "date": "2026-02-10",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-10-05",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "prio",
+          "backsIS",
+          "isPref",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-10-05",
+    "overview": "North Texas Structured Capital is a Dallas-based pe firm founded in 2014, focused on business services and industrials businesses primarily in Texas and South Central US. The firm invests from committed funds (SBIC Fund II, $280M (2023)).",
+    "is_sample": true
+  },
+  {
+    "id": "riverwalk-partners",
+    "name": "Riverwalk Equity Partners",
+    "type": "pe",
+    "city": "San Antonio",
+    "offices": [
+      "Austin"
+    ],
+    "ind": [
+      "Business Services",
+      "Industrials",
+      "Infrastructure Services"
+    ],
+    "sub": [
+      "Government services",
+      "Defense services",
+      "Infrastructure maintenance"
+    ],
+    "eb": [
+      4,
+      25
+    ],
+    "chk": [
+      20,
+      90
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund II, $410M (2023)",
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "Texas",
+      "US"
+    ],
+    "excl": [
+      "Consumer",
+      "Healthcare"
+    ],
+    "prio": "Government and defense services with contract backlog; add-ons for Mission Ridge Services.",
+    "status": "active",
+    "conf": "2026-07-28",
+    "fs": {
+      "eb": "public",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "geo": "public"
+    },
+    "founded": 2015,
+    "domain": "riverwalkequitypartners.example.com",
+    "website": "https://riverwalkequitypartners.example.com",
+    "team": [
+      {
+        "name": "Nadia Morales",
+        "title": "Managing Partner",
+        "email": "nadia.morales@riverwalkequitypartners.example.com",
+        "phone": "(555) 017-5997",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Daniel Ibarra",
+        "title": "Partner",
+        "email": "daniel.ibarra@riverwalkequitypartners.example.com",
+        "phone": "(555) 012-1559",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Elena Whitfield",
+        "title": "Principal",
+        "email": "elena.whitfield@riverwalkequitypartners.example.com",
+        "phone": null,
+        "focus": "Infrastructure Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Caleb Haddad",
+        "title": "Vice President, Business Development",
+        "email": "caleb.haddad@riverwalkequitypartners.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Summit Solutions Group",
+        "sector": "Business Services",
+        "city": "Dallas",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Summit Utility Services",
+        "sector": "Infrastructure Services",
+        "city": "Houston",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Frontier Industries",
+        "sector": "Industrials",
+        "city": "Austin",
+        "year": 2024,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-05-24",
+        "type": "Platform acquisition",
+        "target": "Summit Utility Services",
+        "sector": "Infrastructure Services",
+        "note": "Acquired Summit Utility Services (Houston) as a new platform."
+      },
+      {
+        "date": "2024-03-26",
+        "type": "Platform acquisition",
+        "target": "Frontier Industries",
+        "sector": "Industrials",
+        "note": "Acquired Frontier Industries (Austin) as a new platform."
+      },
+      {
+        "date": "2021-01-18",
+        "type": "Platform acquisition",
+        "target": "Summit Solutions Group",
+        "sector": "Business Services",
+        "note": "Acquired Summit Solutions Group (Dallas) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://riverwalkequitypartners.example.com/criteria",
+        "date": "2026-08-19",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://riverwalkequitypartners.example.com/team",
+        "date": "2026-08-15",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/riverwalk-equity-partners-announcement",
+        "date": "2025-12-02",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-07-28",
+        "fields": [
+          "prio",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-08-19",
+    "overview": "Riverwalk Equity Partners is a San Antonio-based pe firm founded in 2015, focused on business services and industrials businesses primarily in Texas and US. The firm invests from committed funds (Fund II, $410M (2023)).",
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-holdings",
+    "name": "Panhandle Holdings",
+    "type": "fo",
+    "city": "Fort Worth",
+    "offices": [],
+    "ind": [
+      "Food & Agriculture",
+      "Industrials",
+      "Energy Services"
+    ],
+    "sub": [
+      "Agribusiness",
+      "Ranch services",
+      "Oilfield services"
+    ],
+    "eb": [
+      5,
+      40
+    ],
+    "chk": [
+      15,
+      150
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "family",
+    "fund": null,
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "Texas",
+      "Oklahoma",
+      "New Mexico"
+    ],
+    "excl": [
+      "Technology",
+      "Consumer discretionary"
+    ],
+    "prio": "Not disclosed",
+    "status": "paused",
+    "conf": "2026-03-10",
+    "fs": {
+      "eb": "inferred",
+      "chk": "inferred",
+      "ctrl": "public",
+      "cap": "confirmed",
+      "prio": "nd",
+      "backsIS": "confirmed",
+      "geo": "public"
+    },
+    "founded": 1986,
+    "domain": "panhandleholdings.example.com",
+    "website": "https://panhandleholdings.example.com",
+    "team": [
+      {
+        "name": "Victor Vega",
+        "title": "Managing Director",
+        "email": "victor.vega@panhandleholdings.example.com",
+        "phone": "(555) 017-8865",
+        "focus": "Energy Services",
+        "fs": "public"
+      },
+      {
+        "name": "Grant Morales",
+        "title": "Director of Direct Investments",
+        "email": "grant.morales@panhandleholdings.example.com",
+        "phone": "(555) 016-1018",
+        "focus": "Industrials",
+        "fs": "public"
+      },
+      {
+        "name": "Claire Fontenot",
+        "title": "Principal",
+        "email": "claire.fontenot@panhandleholdings.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      },
+      {
+        "name": "Caleb Delgado",
+        "title": "Investment Associate",
+        "email": "caleb.delgado@panhandleholdings.example.com",
+        "phone": null,
+        "focus": "Energy Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Owen Pruitt",
+        "title": "Investment Associate",
+        "email": "owen.pruitt@panhandleholdings.example.com",
+        "phone": null,
+        "focus": "Food & Agriculture",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Longhorn Manufacturing",
+        "sector": "Industrials",
+        "city": "San Antonio",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Lonestar Industries",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Bright Start Foods",
+        "sector": "Food & Agriculture",
+        "city": "Dallas",
+        "year": 2025,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-08-23",
+        "type": "Add-on acquisition",
+        "target": "Longhorn Fabrication",
+        "sector": "Industrials",
+        "note": "Lonestar Industries acquired Longhorn Fabrication as an add-on."
+      },
+      {
+        "date": "2025-09-08",
+        "type": "Add-on acquisition",
+        "target": "Mission Foods",
+        "sector": "Food & Agriculture",
+        "note": "Bright Start Foods acquired Mission Foods as an add-on."
+      },
+      {
+        "date": "2025-04-10",
+        "type": "Platform acquisition",
+        "target": "Bright Start Foods",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Bright Start Foods (Dallas) as a new platform."
+      },
+      {
+        "date": "2025-02-18",
+        "type": "Platform acquisition",
+        "target": "Lonestar Industries",
+        "sector": "Industrials",
+        "note": "Acquired Lonestar Industries (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2022-03-18",
+        "type": "Platform acquisition",
+        "target": "Longhorn Manufacturing",
+        "sector": "Industrials",
+        "note": "Acquired Longhorn Manufacturing (San Antonio) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://panhandleholdings.example.com/criteria",
+        "date": "2026-09-16",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://panhandleholdings.example.com/team",
+        "date": "2026-09-28",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/panhandle-holdings-announcement",
+        "date": "2026-07-11",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-03-10",
+        "fields": [
+          "cap",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-09-16",
+    "overview": "Panhandle Holdings is a Fort Worth-based family office founded in 1986, focused on food & agriculture and industrials businesses primarily in Texas and Oklahoma. The firm invests permanent family capital with flexible hold periods.",
+    "is_sample": true
+  },
+  {
+    "id": "ship-channel-equity",
+    "name": "Ship Channel Equity",
+    "type": "is",
+    "city": "Houston",
+    "offices": [],
+    "ind": [
+      "Energy Services",
+      "Industrials"
+    ],
+    "sub": [
+      "Industrial cleaning",
+      "Specialty chemicals distribution",
+      "Maintenance services"
+    ],
+    "eb": [
+      2,
+      10
+    ],
+    "chk": [
+      5,
+      30
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "deal-by-deal",
+    "fund": null,
+    "backsIS": null,
+    "isPref": null,
+    "geo": [
+      "Gulf Coast"
+    ],
+    "excl": [
+      "Non-industrial"
+    ],
+    "prio": "Pursuing an add-on for an industrial cleaning platform; seeking capital partners.",
+    "status": "active",
+    "conf": "2026-09-12",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "confirmed",
+      "prio": "confirmed",
+      "backsIS": "nd",
+      "geo": "confirmed"
+    },
+    "founded": 2018,
+    "domain": "shipchannelequity.example.com",
+    "website": "https://shipchannelequity.example.com",
+    "team": [
+      {
+        "name": "Tobias Raman",
+        "title": "Managing Partner",
+        "email": "tobias.raman@shipchannelequity.example.com",
+        "phone": "(555) 016-4380",
+        "focus": "Energy Services",
+        "fs": "public"
+      },
+      {
+        "name": "Claire Kowalski",
+        "title": "Partner",
+        "email": "claire.kowalski@shipchannelequity.example.com",
+        "phone": "(555) 015-1019",
+        "focus": "Industrials",
+        "fs": "public"
+      },
+      {
+        "name": "Grant Fontenot",
+        "title": "Associate",
+        "email": "grant.fontenot@shipchannelequity.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Granite Compression",
+        "sector": "Energy Services",
+        "city": "Fort Worth",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Canyon Field Services",
+        "sector": "Energy Services",
+        "city": "San Antonio",
+        "year": 2025,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-10-11",
+        "type": "Add-on acquisition",
+        "target": "Mission Energy Services",
+        "sector": "Energy Services",
+        "note": "Canyon Field Services acquired Mission Energy Services as an add-on."
+      },
+      {
+        "date": "2025-08-25",
+        "type": "Platform acquisition",
+        "target": "Canyon Field Services",
+        "sector": "Energy Services",
+        "note": "Acquired Canyon Field Services (San Antonio) as a new platform."
+      },
+      {
+        "date": "2021-01-11",
+        "type": "Platform acquisition",
+        "target": "Granite Compression",
+        "sector": "Energy Services",
+        "note": "Acquired Granite Compression (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://shipchannelequity.example.com/criteria",
+        "date": "2026-09-23",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://shipchannelequity.example.com/team",
+        "date": "2026-09-18",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/ship-channel-equity-announcement",
+        "date": "2026-08-03",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-12",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "cap",
+          "prio",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-09-23",
+    "overview": "Ship Channel Equity is a Houston-based independent sponsor founded in 2018, focused on energy services and industrials businesses primarily in Gulf Coast. The firm sources transactions first and raises equity from investors on a deal-by-deal basis.",
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth",
+    "name": "Live Oak Growth Capital",
+    "type": "pe",
+    "city": "Austin",
+    "offices": [
+      "Dallas"
+    ],
+    "ind": [
+      "Software & Tech-Enabled Services",
+      "Healthcare Services",
+      "Financial Services"
+    ],
+    "sub": [
+      "Healthcare IT",
+      "Insurance services",
+      "Fintech infrastructure"
+    ],
+    "eb": [
+      3,
+      20
+    ],
+    "chk": [
+      15,
+      75
+    ],
+    "ctrl": [
+      "minority",
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund III, $600M (2024)",
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "US"
+    ],
+    "excl": [
+      "Consumer internet",
+      "Hardware"
+    ],
+    "prio": "Healthcare IT and revenue cycle businesses; insurance distribution with recurring commissions.",
+    "status": "active",
+    "conf": "2026-08-21",
+    "fs": {
+      "eb": "public",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "public",
+      "geo": "public"
+    },
+    "founded": 2010,
+    "domain": "liveoakgrowthcapital.example.com",
+    "website": "https://liveoakgrowthcapital.example.com",
+    "team": [
+      {
+        "name": "Tobias Pruitt",
+        "title": "Managing Partner",
+        "email": "tobias.pruitt@liveoakgrowthcapital.example.com",
+        "phone": "(555) 017-8797",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Hannah Delgado",
+        "title": "Partner",
+        "email": "hannah.delgado@liveoakgrowthcapital.example.com",
+        "phone": "(555) 013-7574",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Daniel Raman",
+        "title": "Principal",
+        "email": "daniel.raman@liveoakgrowthcapital.example.com",
+        "phone": null,
+        "focus": "Healthcare Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Sabine Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Houston",
+        "year": 2020,
+        "status": "Current"
+      },
+      {
+        "name": "Prairie Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "San Antonio",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Harbor Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Fort Worth",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Canyon Insurance Group",
+        "sector": "Financial Services",
+        "city": "Dallas",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Cedar Health",
+        "sector": "Healthcare Services",
+        "city": "San Antonio",
+        "year": 2024,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-10-04",
+        "type": "Add-on acquisition",
+        "target": "Frontier Software",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Harbor Technologies acquired Frontier Software as an add-on."
+      },
+      {
+        "date": "2026-06-19",
+        "type": "Add-on acquisition",
+        "target": "Longhorn Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Meridian Technologies acquired Longhorn Technologies as an add-on."
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Add-on acquisition",
+        "target": "Summit Medical Group",
+        "sector": "Healthcare Services",
+        "note": "Cedar Health acquired Summit Medical Group as an add-on."
+      },
+      {
+        "date": "2026-02-06",
+        "type": "Add-on acquisition",
+        "target": "Pioneer Capital",
+        "sector": "Financial Services",
+        "note": "Canyon Insurance Group acquired Pioneer Capital as an add-on."
+      },
+      {
+        "date": "2025-06-10",
+        "type": "Add-on acquisition",
+        "target": "Summit Systems",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Prairie Technologies acquired Summit Systems as an add-on."
+      },
+      {
+        "date": "2024-06-23",
+        "type": "Platform acquisition",
+        "target": "Cedar Health",
+        "sector": "Healthcare Services",
+        "note": "Acquired Cedar Health (San Antonio) as a new platform."
+      },
+      {
+        "date": "2022-10-03",
+        "type": "Platform acquisition",
+        "target": "Prairie Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Prairie Technologies (San Antonio) as a new platform."
+      },
+      {
+        "date": "2022-07-07",
+        "type": "Platform acquisition",
+        "target": "Meridian Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Meridian Technologies (Houston) as a new platform."
+      },
+      {
+        "date": "2022-07-07",
+        "type": "Platform acquisition",
+        "target": "Harbor Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Harbor Technologies (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2021-10-27",
+        "type": "Platform acquisition",
+        "target": "Canyon Insurance Group",
+        "sector": "Financial Services",
+        "note": "Acquired Canyon Insurance Group (Dallas) as a new platform."
+      },
+      {
+        "date": "2020-10-26",
+        "type": "Platform acquisition",
+        "target": "Sabine Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Sabine Technologies (Houston) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://liveoakgrowthcapital.example.com/criteria",
+        "date": "2026-08-23",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://liveoakgrowthcapital.example.com/team",
+        "date": "2026-10-02",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/live-oak-growth-capital-announcement",
+        "date": "2026-06-19",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-08-21",
+        "fields": [
+          "prio"
+        ]
+      }
+    ],
+    "updated": "2026-08-23",
+    "overview": "Live Oak Growth Capital is a Austin-based pe firm founded in 2010, focused on software & tech-enabled services and healthcare services businesses across the United States. The firm invests from committed funds (Fund III, $600M (2024)).",
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo",
+    "name": "Medina Valley Investments",
+    "type": "fo",
+    "city": "San Antonio",
+    "offices": [],
+    "ind": [
+      "Healthcare Services",
+      "Business Services"
+    ],
+    "sub": [
+      "Senior living services",
+      "Home care",
+      "Facility services"
+    ],
+    "eb": [
+      2,
+      12
+    ],
+    "chk": [
+      5,
+      40
+    ],
+    "ctrl": [
+      "minority",
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "family",
+    "fund": null,
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "co-invest",
+      "equity": "Not disclosed"
+    },
+    "geo": [
+      "Texas"
+    ],
+    "excl": [
+      "Not disclosed"
+    ],
+    "prio": "Not disclosed",
+    "status": "active",
+    "conf": null,
+    "fs": {
+      "eb": "inferred",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "nd",
+      "backsIS": "inferred",
+      "isPref": "inferred",
+      "geo": "public"
+    },
+    "founded": 2008,
+    "domain": "medinavalleyinvestments.example.com",
+    "website": "https://medinavalleyinvestments.example.com",
+    "team": [
+      {
+        "name": "Marcus Brennan",
+        "title": "Managing Director",
+        "email": "marcus.brennan@medinavalleyinvestments.example.com",
+        "phone": "(555) 010-2000",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Caleb Raman",
+        "title": "Director of Direct Investments",
+        "email": "caleb.raman@medinavalleyinvestments.example.com",
+        "phone": "(555) 014-3765",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Thomas Whitfield",
+        "title": "Principal",
+        "email": "thomas.whitfield@medinavalleyinvestments.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Nadia Pruitt",
+        "title": "Investment Associate",
+        "email": "nadia.pruitt@medinavalleyinvestments.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Nadia Ibarra",
+        "title": "Investment Associate",
+        "email": "nadia.ibarra@medinavalleyinvestments.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Longhorn Partners",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2024,
+        "status": "Current"
+      },
+      {
+        "name": "Summit Care Partners",
+        "sector": "Healthcare Services",
+        "city": "Austin",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Meridian Health",
+        "sector": "Healthcare Services",
+        "city": "Houston",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Summit Services",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-09-28",
+        "type": "Add-on acquisition",
+        "target": "Mission Health",
+        "sector": "Healthcare Services",
+        "note": "Summit Care Partners acquired Mission Health as an add-on."
+      },
+      {
+        "date": "2025-07-26",
+        "type": "Add-on acquisition",
+        "target": "Cedar Health",
+        "sector": "Healthcare Services",
+        "note": "Meridian Health acquired Cedar Health as an add-on."
+      },
+      {
+        "date": "2025-06-04",
+        "type": "Platform acquisition",
+        "target": "Meridian Health",
+        "sector": "Healthcare Services",
+        "note": "Acquired Meridian Health (Houston) as a new platform."
+      },
+      {
+        "date": "2024-03-08",
+        "type": "Platform acquisition",
+        "target": "Longhorn Partners",
+        "sector": "Business Services",
+        "note": "Acquired Longhorn Partners (Houston) as a new platform."
+      },
+      {
+        "date": "2022-11-22",
+        "type": "Platform acquisition",
+        "target": "Summit Services",
+        "sector": "Business Services",
+        "note": "Acquired Summit Services (Houston) as a new platform."
+      },
+      {
+        "date": "2021-06-24",
+        "type": "Platform acquisition",
+        "target": "Summit Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Acquired Summit Care Partners (Austin) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://medinavalleyinvestments.example.com/criteria",
+        "date": "2026-09-21",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://medinavalleyinvestments.example.com/team",
+        "date": "2026-09-14",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/medina-valley-investments-announcement",
+        "date": "2026-01-08",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      }
+    ],
+    "updated": "2026-09-21",
+    "overview": "Medina Valley Investments is a San Antonio-based family office founded in 2008, focused on healthcare services and business services businesses primarily in Texas. The firm invests permanent family capital with flexible hold periods.",
+    "is_sample": true
+  },
+  {
+    "id": "stockyards-capital",
+    "name": "Stockyards Capital Group",
+    "type": "pe",
+    "city": "Fort Worth",
+    "offices": [
+      "Dallas"
+    ],
+    "ind": [
+      "Consumer",
+      "Distribution & Logistics",
+      "Business Services"
+    ],
+    "sub": [
+      "Franchising",
+      "Auto services",
+      "Specialty retail"
+    ],
+    "eb": [
+      3,
+      15
+    ],
+    "chk": [
+      10,
+      60
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund II, $300M (2022)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": false,
+      "role": "lead",
+      "equity": "Case by case"
+    },
+    "geo": [
+      "Texas",
+      "Southwest",
+      "Midwest"
+    ],
+    "excl": [
+      "Restaurants",
+      "E-commerce only"
+    ],
+    "prio": "Multi-unit consumer services; add-ons for Longhorn Auto Care across the Southwest.",
+    "status": "active",
+    "conf": "2026-09-08",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "public",
+      "geo": "public"
+    },
+    "founded": 2016,
+    "domain": "stockyardscapitalgroup.example.com",
+    "website": "https://stockyardscapitalgroup.example.com",
+    "team": [
+      {
+        "name": "Grant Pruitt",
+        "title": "Managing Partner",
+        "email": "grant.pruitt@stockyardscapitalgroup.example.com",
+        "phone": "(555) 010-3801",
+        "focus": "Consumer",
+        "fs": "public"
+      },
+      {
+        "name": "Alexis Abernathy",
+        "title": "Partner",
+        "email": "alexis.abernathy@stockyardscapitalgroup.example.com",
+        "phone": "(555) 015-5434",
+        "focus": "Consumer",
+        "fs": "public"
+      },
+      {
+        "name": "Nadia Mendez",
+        "title": "Principal",
+        "email": "nadia.mendez@stockyardscapitalgroup.example.com",
+        "phone": null,
+        "focus": "Distribution & Logistics",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Bright Start Brands",
+        "sector": "Consumer",
+        "city": "Dallas",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Pioneer Solutions Group",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Canyon Distribution",
+        "sector": "Distribution & Logistics",
+        "city": "Fort Worth",
+        "year": 2020,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2025-07-16",
+        "type": "Add-on acquisition",
+        "target": "Summit Brands",
+        "sector": "Consumer",
+        "note": "Bright Start Brands acquired Summit Brands as an add-on."
+      },
+      {
+        "date": "2023-04-16",
+        "type": "Platform acquisition",
+        "target": "Pioneer Solutions Group",
+        "sector": "Business Services",
+        "note": "Acquired Pioneer Solutions Group (Houston) as a new platform."
+      },
+      {
+        "date": "2022-04-02",
+        "type": "Platform acquisition",
+        "target": "Bright Start Brands",
+        "sector": "Consumer",
+        "note": "Acquired Bright Start Brands (Dallas) as a new platform."
+      },
+      {
+        "date": "2020-10-04",
+        "type": "Platform acquisition",
+        "target": "Canyon Distribution",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Canyon Distribution (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://stockyardscapitalgroup.example.com/criteria",
+        "date": "2026-08-28",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://stockyardscapitalgroup.example.com/team",
+        "date": "2026-08-07",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/stockyards-capital-group-announcement",
+        "date": "2026-01-30",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-08",
+        "fields": [
+          "eb",
+          "prio",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-09-08",
+    "overview": "Stockyards Capital Group is a Fort Worth-based pe firm founded in 2016, focused on consumer and distribution & logistics businesses primarily in Texas and Southwest. The firm invests from committed funds (Fund II, $300M (2022)).",
+    "is_sample": true
+  },
+  {
+    "id": "buffalo-bayou-is",
+    "name": "Buffalo Bayou Partners",
+    "type": "is",
+    "city": "Houston",
+    "offices": [],
+    "ind": [
+      "Healthcare Services",
+      "Business Services"
+    ],
+    "sub": [
+      "Medical staffing",
+      "Outsourced business services"
+    ],
+    "eb": [
+      1,
+      5
+    ],
+    "chk": [
+      3,
+      15
+    ],
+    "ctrl": [
+      "control",
+      "minority"
+    ],
+    "deal": [
+      "platform"
+    ],
+    "cap": "deal-by-deal",
+    "fund": null,
+    "backsIS": null,
+    "isPref": null,
+    "geo": [
+      "Texas",
+      "Louisiana"
+    ],
+    "excl": [
+      "Asset-heavy"
+    ],
+    "prio": "Evaluating a medical staffing platform in Houston; open to co-sponsors.",
+    "status": "selective",
+    "conf": "2026-04-02",
+    "fs": {
+      "eb": "public",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "confirmed",
+      "prio": "public",
+      "backsIS": "nd",
+      "geo": "public"
+    },
+    "founded": 2020,
+    "domain": "buffalobayoupartners.example.com",
+    "website": "https://buffalobayoupartners.example.com",
+    "team": [
+      {
+        "name": "Renata Thackeray",
+        "title": "Managing Partner",
+        "email": "renata.thackeray@buffalobayoupartners.example.com",
+        "phone": "(555) 010-7454",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Owen Kowalski",
+        "title": "Partner",
+        "email": "owen.kowalski@buffalobayoupartners.example.com",
+        "phone": "(555) 016-2734",
+        "focus": "Business Services",
+        "fs": "public"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Granite Health",
+        "sector": "Healthcare Services",
+        "city": "Fort Worth",
+        "year": 2021,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2021-03-06",
+        "type": "Platform acquisition",
+        "target": "Granite Health",
+        "sector": "Healthcare Services",
+        "note": "Acquired Granite Health (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://buffalobayoupartners.example.com/criteria",
+        "date": "2026-08-18",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://buffalobayoupartners.example.com/team",
+        "date": "2026-09-12",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/buffalo-bayou-partners-announcement",
+        "date": "2026-05-02",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-04-02",
+        "fields": [
+          "cap"
+        ]
+      }
+    ],
+    "updated": "2026-08-18",
+    "overview": "Buffalo Bayou Partners is a Houston-based independent sponsor founded in 2020, focused on healthcare services and business services businesses primarily in Texas and Louisiana. The firm sources transactions first and raises equity from investors on a deal-by-deal basis.",
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap",
+    "name": "Highland Park Capital Advisors",
+    "type": "pe",
+    "city": "Dallas",
+    "offices": [
+      "Houston",
+      "Austin"
+    ],
+    "ind": [
+      "Financial Services",
+      "Business Services",
+      "Software & Tech-Enabled Services"
+    ],
+    "sub": [
+      "Wealth management",
+      "Insurance brokerage",
+      "Specialty finance"
+    ],
+    "eb": [
+      5,
+      35
+    ],
+    "chk": [
+      25,
+      150
+    ],
+    "ctrl": [
+      "control",
+      "minority"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund IV, $1.3B (2025)",
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "US"
+    ],
+    "excl": [
+      "Banks",
+      "Consumer lending"
+    ],
+    "prio": "RIA aggregation and specialty insurance brokerage; add-ons for Meridian Wealth Partners.",
+    "status": "active",
+    "conf": "2026-09-15",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "geo": "public"
+    },
+    "founded": 2001,
+    "domain": "highlandparkcapitaladvisors.example.com",
+    "website": "https://highlandparkcapitaladvisors.example.com",
+    "team": [
+      {
+        "name": "Thomas Pruitt",
+        "title": "Managing Partner",
+        "email": "thomas.pruitt@highlandparkcapitaladvisors.example.com",
+        "phone": "(555) 014-8187",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Amara Pruitt",
+        "title": "Partner",
+        "email": "amara.pruitt@highlandparkcapitaladvisors.example.com",
+        "phone": "(555) 010-3271",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Hannah Brennan",
+        "title": "Principal",
+        "email": "hannah.brennan@highlandparkcapitaladvisors.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Victor Brennan",
+        "title": "Vice President, Business Development",
+        "email": "victor.brennan@highlandparkcapitaladvisors.example.com",
+        "phone": null,
+        "focus": "Financial Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Rafael Thackeray",
+        "title": "Senior Associate",
+        "email": "rafael.thackeray@highlandparkcapitaladvisors.example.com",
+        "phone": null,
+        "focus": "Business Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Sabine Software",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Austin",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Pioneer Services",
+        "sector": "Business Services",
+        "city": "Dallas",
+        "year": 2022,
+        "status": "Exited"
+      },
+      {
+        "name": "Prairie Capital",
+        "sector": "Financial Services",
+        "city": "Austin",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Summit Capital",
+        "sector": "Financial Services",
+        "city": "Houston",
+        "year": 2025,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-09-27",
+        "type": "Add-on acquisition",
+        "target": "Meridian Solutions Group",
+        "sector": "Business Services",
+        "note": "Pioneer Services acquired Meridian Solutions Group as an add-on."
+      },
+      {
+        "date": "2025-12-31",
+        "type": "Add-on acquisition",
+        "target": "Coastal Capital",
+        "sector": "Financial Services",
+        "note": "Prairie Capital acquired Coastal Capital as an add-on."
+      },
+      {
+        "date": "2025-10-09",
+        "type": "Add-on acquisition",
+        "target": "Cedar Insurance Group",
+        "sector": "Financial Services",
+        "note": "Summit Capital acquired Cedar Insurance Group as an add-on."
+      },
+      {
+        "date": "2025-08-12",
+        "type": "Platform acquisition",
+        "target": "Summit Capital",
+        "sector": "Financial Services",
+        "note": "Acquired Summit Capital (Houston) as a new platform."
+      },
+      {
+        "date": "2023-03-05",
+        "type": "Platform acquisition",
+        "target": "Prairie Capital",
+        "sector": "Financial Services",
+        "note": "Acquired Prairie Capital (Austin) as a new platform."
+      },
+      {
+        "date": "2022-06-22",
+        "type": "Platform acquisition",
+        "target": "Pioneer Services",
+        "sector": "Business Services",
+        "note": "Acquired Pioneer Services (Dallas) as a new platform."
+      },
+      {
+        "date": "2019-01-02",
+        "type": "Platform acquisition",
+        "target": "Sabine Software",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Sabine Software (Austin) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://highlandparkcapitaladvisors.example.com/criteria",
+        "date": "2026-08-18",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://highlandparkcapitaladvisors.example.com/team",
+        "date": "2026-09-09",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+        "date": "2026-02-12",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-15",
+        "fields": [
+          "eb",
+          "chk",
+          "prio",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-09-15",
+    "overview": "Highland Park Capital Advisors is a Dallas-based pe firm founded in 2001, focused on financial services and business services businesses across the United States. The firm invests from committed funds (Fund IV, $1.3B (2025)).",
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo",
+    "name": "Barton Creek Holdings",
+    "type": "fo",
+    "city": "Austin",
+    "offices": [],
+    "ind": [
+      "Infrastructure Services",
+      "Industrials",
+      "Software & Tech-Enabled Services"
+    ],
+    "sub": [
+      "Telecom infrastructure",
+      "Data center services",
+      "Industrial automation"
+    ],
+    "eb": [
+      4,
+      30
+    ],
+    "chk": [
+      20,
+      100
+    ],
+    "ctrl": [
+      "minority",
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "family",
+    "fund": null,
+    "backsIS": true,
+    "isPref": {
+      "firstTime": false,
+      "role": "lead or co-invest",
+      "equity": "Sponsor co-invest required; amount case by case"
+    },
+    "geo": [
+      "Texas",
+      "Southwest",
+      "US"
+    ],
+    "excl": [
+      "Biotech",
+      "Media"
+    ],
+    "prio": "Power and connectivity infrastructure services supporting data center growth in Texas.",
+    "status": "active",
+    "conf": "2026-09-27",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "confirmed",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "confirmed",
+      "geo": "confirmed"
+    },
+    "founded": 2015,
+    "domain": "bartoncreekholdings.example.com",
+    "website": "https://bartoncreekholdings.example.com",
+    "team": [
+      {
+        "name": "Tobias Kowalski",
+        "title": "Managing Director",
+        "email": "tobias.kowalski@bartoncreekholdings.example.com",
+        "phone": "(555) 010-5291",
+        "focus": "Infrastructure Services",
+        "fs": "public"
+      },
+      {
+        "name": "Jordan Whitfield",
+        "title": "Director of Direct Investments",
+        "email": "jordan.whitfield@bartoncreekholdings.example.com",
+        "phone": "(555) 014-9149",
+        "focus": "Infrastructure Services",
+        "fs": "public"
+      },
+      {
+        "name": "Marcus Fontenot",
+        "title": "Principal",
+        "email": "marcus.fontenot@bartoncreekholdings.example.com",
+        "phone": null,
+        "focus": "Infrastructure Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Owen Mendez",
+        "title": "Investment Associate",
+        "email": "owen.mendez@bartoncreekholdings.example.com",
+        "phone": null,
+        "focus": "Infrastructure Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Canyon Fabrication",
+        "sector": "Industrials",
+        "city": "Houston",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Bluebonnet Software",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Fort Worth",
+        "year": 2023,
+        "status": "Current"
+      },
+      {
+        "name": "Apex Industries",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Cedar Construction Services",
+        "sector": "Infrastructure Services",
+        "city": "San Antonio",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Lonestar Construction Services",
+        "sector": "Infrastructure Services",
+        "city": "Houston",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Canyon Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "city": "Houston",
+        "year": 2023,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-09-25",
+        "type": "Add-on acquisition",
+        "target": "Meridian Systems",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Canyon Technologies acquired Meridian Systems as an add-on."
+      },
+      {
+        "date": "2026-08-08",
+        "type": "Add-on acquisition",
+        "target": "Meridian Construction Services",
+        "sector": "Infrastructure Services",
+        "note": "Lonestar Construction Services acquired Meridian Construction Services as an add-on."
+      },
+      {
+        "date": "2026-04-16",
+        "type": "Add-on acquisition",
+        "target": "Longhorn Industries",
+        "sector": "Industrials",
+        "note": "Apex Industries acquired Longhorn Industries as an add-on."
+      },
+      {
+        "date": "2026-01-10",
+        "type": "Add-on acquisition",
+        "target": "Apex Construction Services",
+        "sector": "Infrastructure Services",
+        "note": "Cedar Construction Services acquired Apex Construction Services as an add-on."
+      },
+      {
+        "date": "2025-09-17",
+        "type": "Add-on acquisition",
+        "target": "Summit Industries",
+        "sector": "Industrials",
+        "note": "Canyon Fabrication acquired Summit Industries as an add-on."
+      },
+      {
+        "date": "2025-08-10",
+        "type": "Add-on acquisition",
+        "target": "Mission Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Bluebonnet Software acquired Mission Technologies as an add-on."
+      },
+      {
+        "date": "2023-05-02",
+        "type": "Platform acquisition",
+        "target": "Bluebonnet Software",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Bluebonnet Software (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2023-04-09",
+        "type": "Platform acquisition",
+        "target": "Canyon Technologies",
+        "sector": "Software & Tech-Enabled Services",
+        "note": "Acquired Canyon Technologies (Houston) as a new platform."
+      },
+      {
+        "date": "2022-06-03",
+        "type": "Platform acquisition",
+        "target": "Lonestar Construction Services",
+        "sector": "Infrastructure Services",
+        "note": "Acquired Lonestar Construction Services (Houston) as a new platform."
+      },
+      {
+        "date": "2021-01-14",
+        "type": "Platform acquisition",
+        "target": "Canyon Fabrication",
+        "sector": "Industrials",
+        "note": "Acquired Canyon Fabrication (Houston) as a new platform."
+      },
+      {
+        "date": "2019-09-23",
+        "type": "Platform acquisition",
+        "target": "Apex Industries",
+        "sector": "Industrials",
+        "note": "Acquired Apex Industries (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2019-02-19",
+        "type": "Platform acquisition",
+        "target": "Cedar Construction Services",
+        "sector": "Infrastructure Services",
+        "note": "Acquired Cedar Construction Services (San Antonio) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://bartoncreekholdings.example.com/criteria",
+        "date": "2026-09-15",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://bartoncreekholdings.example.com/team",
+        "date": "2026-09-15",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/barton-creek-holdings-announcement",
+        "date": "2026-05-19",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-27",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "cap",
+          "prio",
+          "backsIS",
+          "isPref",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-09-27",
+    "overview": "Barton Creek Holdings is a Austin-based family office founded in 2015, focused on infrastructure services and industrials businesses primarily in Texas and Southwest. The firm invests permanent family capital with flexible hold periods.",
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners",
+    "name": "San Jacinto Partners",
+    "type": "pe",
+    "city": "Houston",
+    "offices": [],
+    "ind": [
+      "Energy Services",
+      "Industrials",
+      "Distribution & Logistics"
+    ],
+    "sub": [
+      "Oilfield services",
+      "Compression",
+      "Industrial distribution"
+    ],
+    "eb": [
+      10,
+      60
+    ],
+    "chk": [
+      50,
+      250
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund VI, $1.8B (2023)",
+    "backsIS": false,
+    "isPref": null,
+    "geo": [
+      "US"
+    ],
+    "excl": [
+      "Healthcare",
+      "Consumer",
+      "Software"
+    ],
+    "prio": "Not disclosed",
+    "status": "selective",
+    "conf": "2026-02-18",
+    "fs": {
+      "eb": "public",
+      "chk": "public",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "nd",
+      "backsIS": "public",
+      "geo": "public"
+    },
+    "founded": 1995,
+    "domain": "sanjacintopartners.example.com",
+    "website": "https://sanjacintopartners.example.com",
+    "team": [
+      {
+        "name": "Imani Whitfield",
+        "title": "Managing Partner",
+        "email": "imani.whitfield@sanjacintopartners.example.com",
+        "phone": "(555) 010-8259",
+        "focus": "Distribution & Logistics",
+        "fs": "public"
+      },
+      {
+        "name": "Marcus Nakamura",
+        "title": "Partner",
+        "email": "marcus.nakamura@sanjacintopartners.example.com",
+        "phone": "(555) 014-4577",
+        "focus": "Energy Services",
+        "fs": "public"
+      },
+      {
+        "name": "Thomas Morales",
+        "title": "Principal",
+        "email": "thomas.morales@sanjacintopartners.example.com",
+        "phone": null,
+        "focus": "Energy Services",
+        "fs": "inferred"
+      },
+      {
+        "name": "Tobias Brennan",
+        "title": "Vice President, Business Development",
+        "email": "tobias.brennan@sanjacintopartners.example.com",
+        "phone": null,
+        "focus": "Energy Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Granite Supply",
+        "sector": "Distribution & Logistics",
+        "city": "Fort Worth",
+        "year": 2019,
+        "status": "Current"
+      },
+      {
+        "name": "Canyon Supply",
+        "sector": "Distribution & Logistics",
+        "city": "San Antonio",
+        "year": 2020,
+        "status": "Exited"
+      },
+      {
+        "name": "Granite Industries",
+        "sector": "Industrials",
+        "city": "San Antonio",
+        "year": 2025,
+        "status": "Current"
+      },
+      {
+        "name": "Longhorn Fabrication",
+        "sector": "Industrials",
+        "city": "San Antonio",
+        "year": 2020,
+        "status": "Exited"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-04-06",
+        "type": "Add-on acquisition",
+        "target": "Prairie Industries",
+        "sector": "Industrials",
+        "note": "Longhorn Fabrication acquired Prairie Industries as an add-on."
+      },
+      {
+        "date": "2026-01-09",
+        "type": "Add-on acquisition",
+        "target": "Canyon Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Granite Supply acquired Canyon Supply as an add-on."
+      },
+      {
+        "date": "2025-12-14",
+        "type": "Add-on acquisition",
+        "target": "Coastal Distribution",
+        "sector": "Distribution & Logistics",
+        "note": "Canyon Supply acquired Coastal Distribution as an add-on."
+      },
+      {
+        "date": "2025-08-22",
+        "type": "Add-on acquisition",
+        "target": "Summit Manufacturing",
+        "sector": "Industrials",
+        "note": "Granite Industries acquired Summit Manufacturing as an add-on."
+      },
+      {
+        "date": "2025-08-14",
+        "type": "Platform acquisition",
+        "target": "Granite Industries",
+        "sector": "Industrials",
+        "note": "Acquired Granite Industries (San Antonio) as a new platform."
+      },
+      {
+        "date": "2020-12-01",
+        "type": "Platform acquisition",
+        "target": "Longhorn Fabrication",
+        "sector": "Industrials",
+        "note": "Acquired Longhorn Fabrication (San Antonio) as a new platform."
+      },
+      {
+        "date": "2020-09-07",
+        "type": "Platform acquisition",
+        "target": "Canyon Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Canyon Supply (San Antonio) as a new platform."
+      },
+      {
+        "date": "2019-07-13",
+        "type": "Platform acquisition",
+        "target": "Granite Supply",
+        "sector": "Distribution & Logistics",
+        "note": "Acquired Granite Supply (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://sanjacintopartners.example.com/criteria",
+        "date": "2026-09-30",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://sanjacintopartners.example.com/team",
+        "date": "2026-08-17",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/san-jacinto-partners-announcement",
+        "date": "2026-09-01",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-02-18",
+        "fields": []
+      }
+    ],
+    "updated": "2026-09-30",
+    "overview": "San Jacinto Partners is a Houston-based pe firm founded in 1995, focused on energy services and industrials businesses across the United States. The firm invests from committed funds (Fund VI, $1.8B (2023)).",
+    "is_sample": true
+  },
+  {
+    "id": "cibolo-creek-is",
+    "name": "Cibolo Creek Capital",
+    "type": "is",
+    "city": "San Antonio",
+    "offices": [],
+    "ind": [
+      "Industrials",
+      "Infrastructure Services",
+      "Business Services"
+    ],
+    "sub": [
+      "HVAC & plumbing services",
+      "Landscaping",
+      "Facility maintenance"
+    ],
+    "eb": [
+      1.5,
+      7
+    ],
+    "chk": [
+      4,
+      20
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "deal-by-deal",
+    "fund": null,
+    "backsIS": null,
+    "isPref": null,
+    "geo": [
+      "Texas"
+    ],
+    "excl": [
+      "Technology"
+    ],
+    "prio": "Residential and commercial services platform in South Texas; add-on pipeline of four targets.",
+    "status": "active",
+    "conf": "2026-09-20",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "confirmed",
+      "prio": "confirmed",
+      "backsIS": "nd",
+      "geo": "confirmed"
+    },
+    "founded": 2022,
+    "domain": "cibolocreekcapital.example.com",
+    "website": "https://cibolocreekcapital.example.com",
+    "team": [
+      {
+        "name": "Marisol Whitfield",
+        "title": "Managing Partner",
+        "email": "marisol.whitfield@cibolocreekcapital.example.com",
+        "phone": "(555) 011-3530",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Claire Castellanos",
+        "title": "Partner",
+        "email": "claire.castellanos@cibolocreekcapital.example.com",
+        "phone": "(555) 011-7947",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Elena Mendez",
+        "title": "Associate",
+        "email": "elena.mendez@cibolocreekcapital.example.com",
+        "phone": null,
+        "focus": "Infrastructure Services",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Cedar Fabrication",
+        "sector": "Industrials",
+        "city": "Fort Worth",
+        "year": 2021,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-06-29",
+        "type": "Add-on acquisition",
+        "target": "Granite Industries",
+        "sector": "Industrials",
+        "note": "Cedar Fabrication acquired Granite Industries as an add-on."
+      },
+      {
+        "date": "2021-07-11",
+        "type": "Platform acquisition",
+        "target": "Cedar Fabrication",
+        "sector": "Industrials",
+        "note": "Acquired Cedar Fabrication (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://cibolocreekcapital.example.com/criteria",
+        "date": "2026-09-15",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://cibolocreekcapital.example.com/team",
+        "date": "2026-08-16",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/cibolo-creek-capital-announcement",
+        "date": "2026-02-09",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-09-20",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "cap",
+          "prio",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-09-20",
+    "overview": "Cibolo Creek Capital is a San Antonio-based independent sponsor founded in 2022, focused on industrials and infrastructure services businesses primarily in Texas. The firm sources transactions first and raises equity from investors on a deal-by-deal basis.",
+    "is_sample": true
+  },
+  {
+    "id": "white-rock-partners",
+    "name": "White Rock Partners",
+    "type": "pe",
+    "city": "Dallas",
+    "offices": [],
+    "ind": [
+      "Distribution & Logistics",
+      "Industrials",
+      "Food & Agriculture"
+    ],
+    "sub": [
+      "Cold chain",
+      "Freight brokerage",
+      "Food distribution"
+    ],
+    "eb": [
+      5,
+      30
+    ],
+    "chk": [
+      20,
+      100
+    ],
+    "ctrl": [
+      "control"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund III, $475M (2024)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": false,
+      "role": "lead",
+      "equity": "Sponsor co-invest of 2% expected"
+    },
+    "geo": [
+      "Texas",
+      "South Central US",
+      "Southeast"
+    ],
+    "excl": [
+      "Asset-light brokerage only",
+      "Retail"
+    ],
+    "prio": "Cold chain logistics platform; add-ons in refrigerated warehousing along I-35 and I-10 corridors.",
+    "status": "active",
+    "conf": "2026-10-03",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "confirmed",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "confirmed",
+      "geo": "confirmed"
+    },
+    "founded": 2012,
+    "domain": "whiterockpartners.example.com",
+    "website": "https://whiterockpartners.example.com",
+    "team": [
+      {
+        "name": "Jordan Oyelaran",
+        "title": "Managing Partner",
+        "email": "jordan.oyelaran@whiterockpartners.example.com",
+        "phone": "(555) 010-3621",
+        "focus": "Food & Agriculture",
+        "fs": "public"
+      },
+      {
+        "name": "Priya Brennan",
+        "title": "Partner",
+        "email": "priya.brennan@whiterockpartners.example.com",
+        "phone": "(555) 011-4141",
+        "focus": "Food & Agriculture",
+        "fs": "public"
+      },
+      {
+        "name": "Renata Haddad",
+        "title": "Principal",
+        "email": "renata.haddad@whiterockpartners.example.com",
+        "phone": null,
+        "focus": "Food & Agriculture",
+        "fs": "inferred"
+      },
+      {
+        "name": "Claire Castellanos",
+        "title": "Vice President, Business Development",
+        "email": "claire.castellanos@whiterockpartners.example.com",
+        "phone": null,
+        "focus": "Industrials",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Longhorn Provisions",
+        "sector": "Food & Agriculture",
+        "city": "Fort Worth",
+        "year": 2022,
+        "status": "Current"
+      },
+      {
+        "name": "Bright Start Farms",
+        "sector": "Food & Agriculture",
+        "city": "Dallas",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Pioneer Fabrication",
+        "sector": "Industrials",
+        "city": "Dallas",
+        "year": 2023,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-05-06",
+        "type": "Add-on acquisition",
+        "target": "Harbor Foods",
+        "sector": "Food & Agriculture",
+        "note": "Bright Start Farms acquired Harbor Foods as an add-on."
+      },
+      {
+        "date": "2026-01-24",
+        "type": "Add-on acquisition",
+        "target": "Cedar Provisions",
+        "sector": "Food & Agriculture",
+        "note": "Longhorn Provisions acquired Cedar Provisions as an add-on."
+      },
+      {
+        "date": "2023-04-08",
+        "type": "Platform acquisition",
+        "target": "Pioneer Fabrication",
+        "sector": "Industrials",
+        "note": "Acquired Pioneer Fabrication (Dallas) as a new platform."
+      },
+      {
+        "date": "2022-08-18",
+        "type": "Platform acquisition",
+        "target": "Longhorn Provisions",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Longhorn Provisions (Fort Worth) as a new platform."
+      },
+      {
+        "date": "2021-09-20",
+        "type": "Platform acquisition",
+        "target": "Bright Start Farms",
+        "sector": "Food & Agriculture",
+        "note": "Acquired Bright Start Farms (Dallas) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://whiterockpartners.example.com/criteria",
+        "date": "2026-08-14",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://whiterockpartners.example.com/team",
+        "date": "2026-09-28",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/white-rock-partners-announcement",
+        "date": "2026-05-24",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-10-03",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "prio",
+          "backsIS",
+          "isPref",
+          "geo"
+        ]
+      }
+    ],
+    "updated": "2026-10-03",
+    "overview": "White Rock Partners is a Dallas-based pe firm founded in 2012, focused on distribution & logistics and industrials businesses primarily in Texas and South Central US. The firm invests from committed funds (Fund III, $475M (2024)).",
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth",
+    "name": "Galleria Growth Partners",
+    "type": "pe",
+    "city": "Houston",
+    "offices": [],
+    "ind": [
+      "Consumer",
+      "Healthcare Services",
+      "Business Services"
+    ],
+    "sub": [
+      "Education services",
+      "Childcare",
+      "Consumer health"
+    ],
+    "eb": [
+      2,
+      12
+    ],
+    "chk": [
+      8,
+      45
+    ],
+    "ctrl": [
+      "control",
+      "minority"
+    ],
+    "deal": [
+      "platform",
+      "add-on"
+    ],
+    "cap": "committed",
+    "fund": "Fund I, $180M (2023)",
+    "backsIS": true,
+    "isPref": {
+      "firstTime": true,
+      "role": "lead or co-invest",
+      "equity": "Flexible"
+    },
+    "geo": [
+      "Texas",
+      "Southwest"
+    ],
+    "excl": [
+      "Restaurants",
+      "Apparel"
+    ],
+    "prio": "Early childhood education and tutoring platforms; add-ons for Bright Start Learning Centers.",
+    "status": "active",
+    "conf": "2026-08-05",
+    "fs": {
+      "eb": "confirmed",
+      "chk": "confirmed",
+      "ctrl": "public",
+      "cap": "public",
+      "prio": "confirmed",
+      "backsIS": "confirmed",
+      "isPref": "public",
+      "geo": "public"
+    },
+    "founded": 2022,
+    "domain": "galleriagrowthpartners.example.com",
+    "website": "https://galleriagrowthpartners.example.com",
+    "team": [
+      {
+        "name": "Nadia Fontenot",
+        "title": "Managing Partner",
+        "email": "nadia.fontenot@galleriagrowthpartners.example.com",
+        "phone": "(555) 012-2715",
+        "focus": "Business Services",
+        "fs": "public"
+      },
+      {
+        "name": "Imani Nakamura",
+        "title": "Partner",
+        "email": "imani.nakamura@galleriagrowthpartners.example.com",
+        "phone": "(555) 012-9308",
+        "focus": "Healthcare Services",
+        "fs": "public"
+      },
+      {
+        "name": "Thomas Fontenot",
+        "title": "Principal",
+        "email": "thomas.fontenot@galleriagrowthpartners.example.com",
+        "phone": null,
+        "focus": "Consumer",
+        "fs": "inferred"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "Coastal Medical Group",
+        "sector": "Healthcare Services",
+        "city": "Austin",
+        "year": 2024,
+        "status": "Current"
+      },
+      {
+        "name": "Apex Partners",
+        "sector": "Business Services",
+        "city": "Houston",
+        "year": 2025,
+        "status": "Exited"
+      },
+      {
+        "name": "Harbor Care Partners",
+        "sector": "Healthcare Services",
+        "city": "Houston",
+        "year": 2021,
+        "status": "Current"
+      },
+      {
+        "name": "Prairie Partners",
+        "sector": "Business Services",
+        "city": "Fort Worth",
+        "year": 2020,
+        "status": "Current"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Add-on acquisition",
+        "target": "Granite Partners",
+        "sector": "Business Services",
+        "note": "Prairie Partners acquired Granite Partners as an add-on."
+      },
+      {
+        "date": "2026-03-11",
+        "type": "Add-on acquisition",
+        "target": "Bluebonnet Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Coastal Medical Group acquired Bluebonnet Care Partners as an add-on."
+      },
+      {
+        "date": "2025-07-31",
+        "type": "Add-on acquisition",
+        "target": "Bluebonnet Partners",
+        "sector": "Business Services",
+        "note": "Apex Partners acquired Bluebonnet Partners as an add-on."
+      },
+      {
+        "date": "2025-05-26",
+        "type": "Platform acquisition",
+        "target": "Apex Partners",
+        "sector": "Business Services",
+        "note": "Acquired Apex Partners (Houston) as a new platform."
+      },
+      {
+        "date": "2024-04-04",
+        "type": "Platform acquisition",
+        "target": "Coastal Medical Group",
+        "sector": "Healthcare Services",
+        "note": "Acquired Coastal Medical Group (Austin) as a new platform."
+      },
+      {
+        "date": "2021-08-20",
+        "type": "Platform acquisition",
+        "target": "Harbor Care Partners",
+        "sector": "Healthcare Services",
+        "note": "Acquired Harbor Care Partners (Houston) as a new platform."
+      },
+      {
+        "date": "2020-08-18",
+        "type": "Platform acquisition",
+        "target": "Prairie Partners",
+        "sector": "Business Services",
+        "note": "Acquired Prairie Partners (Fort Worth) as a new platform."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Firm website — investment criteria",
+        "url": "https://galleriagrowthpartners.example.com/criteria",
+        "date": "2026-09-01",
+        "fields": [
+          "eb",
+          "chk",
+          "ctrl",
+          "geo",
+          "excl"
+        ]
+      },
+      {
+        "label": "Firm website — team",
+        "url": "https://galleriagrowthpartners.example.com/team",
+        "date": "2026-09-03",
+        "fields": [
+          "team"
+        ]
+      },
+      {
+        "label": "Press announcement (fictional)",
+        "url": "https://news.example.org/galleria-growth-partners-announcement",
+        "date": "2026-08-19",
+        "fields": [
+          "transactions",
+          "fund"
+        ]
+      },
+      {
+        "label": "Firm confirmation (email, fictional)",
+        "url": null,
+        "date": "2026-08-05",
+        "fields": [
+          "eb",
+          "chk",
+          "prio",
+          "backsIS"
+        ]
+      }
+    ],
+    "updated": "2026-09-01",
+    "overview": "Galleria Growth Partners is a Houston-based pe firm founded in 2022, focused on consumer and healthcare services businesses primarily in Texas and Southwest. The firm invests from committed funds (Fund I, $180M (2023)).",
+    "is_sample": true
+  }
+]

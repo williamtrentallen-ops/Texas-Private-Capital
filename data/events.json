@@ -1,0 +1,1739 @@
+[
+  {
+    "date": "2026-10-07",
+    "type": "team",
+    "firm": "trinity-ridge",
+    "title": "Trinity Ridge Partners promoted a Principal",
+    "detail": "Trinity Ridge Partners promoted a Principal to Partner, adding coverage of testing and inspection.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Firm website — team",
+      "url": "https://trinityridgepartners.example.com/team",
+      "date": "2026-09-01",
+      "fields": [
+        "team"
+      ]
+    },
+    "why": {
+      "fact": "Team change announced on the firm's website.",
+      "inference": "New business development hires are often the fastest route to a first conversation."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-10-05",
+    "type": "mandate",
+    "firm": "north-texas-mezz",
+    "title": "North Texas Structured Capital confirmed current investment priorities",
+    "detail": "Structured equity and subordinated debt alongside independent sponsors; active across sectors.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-10-05",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "prio",
+        "backsIS",
+        "isPref",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-10-04",
+    "type": "acq",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital: add-on acquisition of Frontier Software",
+    "detail": "Harbor Technologies acquired Frontier Software as an add-on.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Live Oak Growth Capital completed a add-on acquisition in software & tech-enabled services.",
+      "inference": "Active add-on programs usually continue; comparable software & tech-enabled services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-10-03",
+    "type": "mandate",
+    "firm": "white-rock-partners",
+    "title": "White Rock Partners confirmed current investment priorities",
+    "detail": "Cold chain logistics platform; add-ons in refrigerated warehousing along I-35 and I-10 corridors.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-10-03",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "prio",
+        "backsIS",
+        "isPref",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-10-01",
+    "type": "mandate",
+    "firm": "cowtown-capital",
+    "title": "Cowtown Capital Partners confirmed current investment priorities",
+    "detail": "Second platform acquisition in precision machining; actively seeking equity partners for a signed LOI.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-10-01",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "cap",
+        "prio",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-30",
+    "type": "mandate",
+    "firm": "gulf-stream-growth",
+    "title": "Gulf Stream Growth Partners confirmed current investment priorities",
+    "detail": "Add-ons for Coastal Smiles Dental; new platform in veterinary services.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-30",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "prio",
+        "backsIS",
+        "isPref",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-27",
+    "type": "mandate",
+    "firm": "barton-creek-fo",
+    "title": "Barton Creek Holdings confirmed current investment priorities",
+    "detail": "Power and connectivity infrastructure services supporting data center growth in Texas.",
+    "sector": "Infrastructure Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-27",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "cap",
+        "prio",
+        "backsIS",
+        "isPref",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-27",
+    "type": "acq",
+    "firm": "highland-park-cap",
+    "title": "Highland Park Capital Advisors: add-on acquisition of Meridian Solutions Group",
+    "detail": "Pioneer Services acquired Meridian Solutions Group as an add-on.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Highland Park Capital Advisors completed a add-on acquisition in business services.",
+      "inference": "Active add-on programs usually continue; comparable business services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-25",
+    "type": "acq",
+    "firm": "barton-creek-fo",
+    "title": "Barton Creek Holdings: add-on acquisition of Meridian Systems",
+    "detail": "Canyon Technologies acquired Meridian Systems as an add-on.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Barton Creek Holdings completed a add-on acquisition in software & tech-enabled services.",
+      "inference": "Active add-on programs usually continue; comparable software & tech-enabled services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-25",
+    "type": "mandate",
+    "firm": "capital-metro-ventures",
+    "title": "Capitol Metro Partners confirmed current investment priorities",
+    "detail": "Founder-led managed service providers with $1–4M EBITDA in central Texas.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-25",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "cap",
+        "prio",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-20",
+    "type": "mandate",
+    "firm": "cibolo-creek-is",
+    "title": "Cibolo Creek Capital confirmed current investment priorities",
+    "detail": "Residential and commercial services platform in South Texas; add-on pipeline of four targets.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-20",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "cap",
+        "prio",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-18",
+    "type": "mandate",
+    "firm": "trinity-ridge",
+    "title": "Trinity Ridge Partners confirmed current investment priorities",
+    "detail": "Add-ons for three existing platforms in route-based services; one new platform in testing, inspection and compliance.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-18",
+      "fields": [
+        "eb",
+        "chk",
+        "prio",
+        "backsIS",
+        "isPref"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-15",
+    "type": "mandate",
+    "firm": "highland-park-cap",
+    "title": "Highland Park Capital Advisors confirmed current investment priorities",
+    "detail": "RIA aggregation and specialty insurance brokerage; add-ons for Meridian Wealth Partners.",
+    "sector": "Financial Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-15",
+      "fields": [
+        "eb",
+        "chk",
+        "prio",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-14",
+    "type": "team",
+    "firm": "highland-park-cap",
+    "title": "Highland Park Capital Advisors hired a Vice",
+    "detail": "Highland Park Capital Advisors hired a Vice President of Business Development from a national insurance brokerage.",
+    "sector": "Financial Services",
+    "source": {
+      "label": "Firm website — team",
+      "url": "https://highlandparkcapitaladvisors.example.com/team",
+      "date": "2026-09-09",
+      "fields": [
+        "team"
+      ]
+    },
+    "why": {
+      "fact": "Team change announced on the firm's website.",
+      "inference": "New business development hires are often the fastest route to a first conversation."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-12",
+    "type": "mandate",
+    "firm": "ship-channel-equity",
+    "title": "Ship Channel Equity confirmed current investment priorities",
+    "detail": "Pursuing an add-on for an industrial cleaning platform; seeking capital partners.",
+    "sector": "Energy Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-12",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "cap",
+        "prio",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-08",
+    "type": "mandate",
+    "firm": "stockyards-capital",
+    "title": "Stockyards Capital Group confirmed current investment priorities",
+    "detail": "Multi-unit consumer services; add-ons for Longhorn Auto Care across the Southwest.",
+    "sector": "Consumer",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-08",
+      "fields": [
+        "eb",
+        "prio",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-02",
+    "type": "mandate",
+    "firm": "alamo-plaza-holdings",
+    "title": "Alamo Plaza Holdings confirmed current investment priorities",
+    "detail": "Family-owned consumer and food businesses where the family wants a long-term partner rather than a five-year exit.",
+    "sector": "Consumer",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-09-02",
+      "fields": [
+        "eb",
+        "chk",
+        "ctrl",
+        "cap",
+        "prio",
+        "backsIS",
+        "isPref",
+        "geo"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-09-01",
+    "type": "acq",
+    "firm": "alamo-plaza-holdings",
+    "title": "Alamo Plaza Holdings: add-on acquisition of Summit Supply",
+    "detail": "Meridian Supply acquired Summit Supply as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Alamo Plaza Holdings completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-30",
+    "type": "acq",
+    "firm": "alamo-plaza-holdings",
+    "title": "Alamo Plaza Holdings: add-on acquisition of Coastal Farms",
+    "detail": "Coastal Foods acquired Coastal Farms as an add-on.",
+    "sector": "Food & Agriculture",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Alamo Plaza Holdings completed a add-on acquisition in food & agriculture.",
+      "inference": "Active add-on programs usually continue; comparable food & agriculture businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-30",
+    "type": "mandate",
+    "firm": "bayou-city-cap",
+    "title": "Bayou City Capital confirmed current investment priorities",
+    "detail": "Energy transition services and electrical infrastructure contractors with recurring maintenance revenue.",
+    "sector": "Energy Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-08-30",
+      "fields": [
+        "prio",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-23",
+    "type": "acq",
+    "firm": "panhandle-holdings",
+    "title": "Panhandle Holdings: add-on acquisition of Longhorn Fabrication",
+    "detail": "Lonestar Industries acquired Longhorn Fabrication as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Panhandle Holdings completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-22",
+    "type": "team",
+    "firm": "bayou-city-cap",
+    "title": "Bayou City Capital added an Operating",
+    "detail": "Bayou City Capital added an Operating Partner focused on electrical infrastructure.",
+    "sector": "Energy Services",
+    "source": {
+      "label": "Firm website — team",
+      "url": "https://bayoucitycapital.example.com/team",
+      "date": "2026-08-13",
+      "fields": [
+        "team"
+      ]
+    },
+    "why": {
+      "fact": "Team change announced on the firm's website.",
+      "inference": "New business development hires are often the fastest route to a first conversation."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-21",
+    "type": "mandate",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital confirmed current investment priorities",
+    "detail": "Healthcare IT and revenue cycle businesses; insurance distribution with recurring commissions.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-08-21",
+      "fields": [
+        "prio"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-12",
+    "type": "mandate",
+    "firm": "mesquite-industrial",
+    "title": "Mesquite Industrial Partners confirmed current investment priorities",
+    "detail": "Building products and packaging platforms with pricing power and fragmented supplier bases.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-08-12",
+      "fields": [
+        "eb",
+        "chk",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-12",
+    "type": "acq",
+    "firm": "trinity-ridge",
+    "title": "Trinity Ridge Partners: add-on acquisition of Lonestar Partners",
+    "detail": "Coastal Solutions Group acquired Lonestar Partners as an add-on.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Trinity Ridge Partners completed a add-on acquisition in business services.",
+      "inference": "Active add-on programs usually continue; comparable business services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-08",
+    "type": "acq",
+    "firm": "barton-creek-fo",
+    "title": "Barton Creek Holdings: add-on acquisition of Meridian Construction Services",
+    "detail": "Lonestar Construction Services acquired Meridian Construction Services as an add-on.",
+    "sector": "Infrastructure Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Barton Creek Holdings completed a add-on acquisition in infrastructure services.",
+      "inference": "Active add-on programs usually continue; comparable infrastructure services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-08-05",
+    "type": "mandate",
+    "firm": "galleria-growth",
+    "title": "Galleria Growth Partners confirmed current investment priorities",
+    "detail": "Early childhood education and tutoring platforms; add-ons for Bright Start Learning Centers.",
+    "sector": "Consumer",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-08-05",
+      "fields": [
+        "eb",
+        "chk",
+        "prio",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-07-30",
+    "type": "team",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital opened a Dallas",
+    "detail": "Live Oak Growth Capital opened a Dallas office led by a new Partner.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Firm website — team",
+      "url": "https://liveoakgrowthcapital.example.com/team",
+      "date": "2026-10-02",
+      "fields": [
+        "team"
+      ]
+    },
+    "why": {
+      "fact": "Team change announced on the firm's website.",
+      "inference": "New business development hires are often the fastest route to a first conversation."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-07-28",
+    "type": "mandate",
+    "firm": "riverwalk-partners",
+    "title": "Riverwalk Equity Partners confirmed current investment priorities",
+    "detail": "Government and defense services with contract backlog; add-ons for Mission Ridge Services.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-07-28",
+      "fields": [
+        "prio",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-07-11",
+    "type": "mandate",
+    "firm": "hill-country-growth",
+    "title": "Hill Country Growth Equity confirmed current investment priorities",
+    "detail": "Bootstrapped vertical software businesses with $5M+ ARR seeking first institutional capital.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-07-11",
+      "fields": [
+        "chk",
+        "ctrl",
+        "prio"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-07-07",
+    "type": "team",
+    "firm": "white-rock-partners",
+    "title": "White Rock Partners hired a Director",
+    "detail": "White Rock Partners hired a Director of Sourcing covering the I-35 corridor.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Firm website — team",
+      "url": "https://whiterockpartners.example.com/team",
+      "date": "2026-09-28",
+      "fields": [
+        "team"
+      ]
+    },
+    "why": {
+      "fact": "Team change announced on the firm's website.",
+      "inference": "New business development hires are often the fastest route to a first conversation."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-06-29",
+    "type": "acq",
+    "firm": "cibolo-creek-is",
+    "title": "Cibolo Creek Capital: add-on acquisition of Granite Industries",
+    "detail": "Cedar Fabrication acquired Granite Industries as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/cibolo-creek-capital-announcement",
+      "date": "2026-02-09",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Cibolo Creek Capital completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-06-20",
+    "type": "mandate",
+    "firm": "lone-star-health",
+    "title": "Lone Star Health Partners confirmed current investment priorities",
+    "detail": "Multi-site specialty physician groups in Texas and the Southeast; paused on behavioral health platforms pending reimbursement clarity.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-06-20",
+      "fields": [
+        "prio"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-06-19",
+    "type": "acq",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital: add-on acquisition of Longhorn Technologies",
+    "detail": "Meridian Technologies acquired Longhorn Technologies as an add-on.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Live Oak Growth Capital completed a add-on acquisition in software & tech-enabled services.",
+      "inference": "Active add-on programs usually continue; comparable software & tech-enabled services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-06-14",
+    "type": "team",
+    "firm": "gulf-stream-growth",
+    "title": "Gulf Stream Growth Partners promoted a Senior",
+    "detail": "Gulf Stream Growth Partners promoted a Senior Associate to Vice President.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Firm website — team",
+      "url": "https://gulfstreamgrowthpartners.example.com/team",
+      "date": "2026-09-18",
+      "fields": [
+        "team"
+      ]
+    },
+    "why": {
+      "fact": "Team change announced on the firm's website.",
+      "inference": "New business development hires are often the fastest route to a first conversation."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-06-02",
+    "type": "acq",
+    "firm": "north-texas-mezz",
+    "title": "North Texas Structured Capital: add-on acquisition of Meridian Logistics",
+    "detail": "Granite Distribution acquired Meridian Logistics as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "North Texas Structured Capital completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-05-14",
+    "type": "mandate",
+    "firm": "pedernales-capital",
+    "title": "Pedernales Capital confirmed current investment priorities",
+    "detail": "Minority growth capital for Texas consumer brands with $10M+ revenue; considers co-investments alongside sponsors.",
+    "sector": "Consumer",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-05-14",
+      "fields": [
+        "chk",
+        "ctrl",
+        "prio",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-05-06",
+    "type": "acq",
+    "firm": "white-rock-partners",
+    "title": "White Rock Partners: add-on acquisition of Harbor Foods",
+    "detail": "Bright Start Farms acquired Harbor Foods as an add-on.",
+    "sector": "Food & Agriculture",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "White Rock Partners completed a add-on acquisition in food & agriculture.",
+      "inference": "Active add-on programs usually continue; comparable food & agriculture businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-05-05",
+    "type": "acq",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital: add-on acquisition of Summit Medical Group",
+    "detail": "Cedar Health acquired Summit Medical Group as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Live Oak Growth Capital completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-05-03",
+    "type": "acq",
+    "firm": "galleria-growth",
+    "title": "Galleria Growth Partners: add-on acquisition of Granite Partners",
+    "detail": "Prairie Partners acquired Granite Partners as an add-on.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Galleria Growth Partners completed a add-on acquisition in business services.",
+      "inference": "Active add-on programs usually continue; comparable business services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-28",
+    "type": "acq",
+    "firm": "bayou-city-cap",
+    "title": "Bayou City Capital: add-on acquisition of Mission Compression",
+    "detail": "Lonestar Compression acquired Mission Compression as an add-on.",
+    "sector": "Energy Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Bayou City Capital completed a add-on acquisition in energy services.",
+      "inference": "Active add-on programs usually continue; comparable energy services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-23",
+    "type": "acq",
+    "firm": "alamo-plaza-holdings",
+    "title": "Alamo Plaza Holdings: add-on acquisition of Prairie Supply",
+    "detail": "Canyon Logistics acquired Prairie Supply as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Alamo Plaza Holdings completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-16",
+    "type": "acq",
+    "firm": "barton-creek-fo",
+    "title": "Barton Creek Holdings: add-on acquisition of Longhorn Industries",
+    "detail": "Apex Industries acquired Longhorn Industries as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Barton Creek Holdings completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-13",
+    "type": "acq",
+    "firm": "north-texas-mezz",
+    "title": "North Texas Structured Capital: add-on acquisition of Bluebonnet Supply",
+    "detail": "Summit Logistics acquired Bluebonnet Supply as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "North Texas Structured Capital completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-11",
+    "type": "acq",
+    "firm": "lone-star-health",
+    "title": "Lone Star Health Partners: add-on acquisition of Pioneer Health",
+    "detail": "Coastal Health acquired Pioneer Health as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Lone Star Health Partners completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-11",
+    "type": "acq",
+    "firm": "lone-star-health",
+    "title": "Lone Star Health Partners: add-on acquisition of Bluebonnet Health",
+    "detail": "Cedar Care Partners acquired Bluebonnet Health as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Lone Star Health Partners completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-06",
+    "type": "acq",
+    "firm": "san-jacinto-partners",
+    "title": "San Jacinto Partners: add-on acquisition of Prairie Industries",
+    "detail": "Longhorn Fabrication acquired Prairie Industries as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "San Jacinto Partners completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-06",
+    "type": "acq",
+    "firm": "trinity-ridge",
+    "title": "Trinity Ridge Partners: add-on acquisition of Summit Solutions Group",
+    "detail": "Bluebonnet Solutions Group acquired Summit Solutions Group as an add-on.",
+    "sector": "Business Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Trinity Ridge Partners completed a add-on acquisition in business services.",
+      "inference": "Active add-on programs usually continue; comparable business services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-04-02",
+    "type": "mandate",
+    "firm": "buffalo-bayou-is",
+    "title": "Buffalo Bayou Partners confirmed current investment priorities",
+    "detail": "Evaluating a medical staffing platform in Houston; open to co-sponsors.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-04-02",
+      "fields": [
+        "cap"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-03-16",
+    "type": "acq",
+    "firm": "bayou-city-cap",
+    "title": "Bayou City Capital: add-on acquisition of Canyon Industries",
+    "detail": "Granite Manufacturing acquired Canyon Industries as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Bayou City Capital completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-03-11",
+    "type": "acq",
+    "firm": "galleria-growth",
+    "title": "Galleria Growth Partners: add-on acquisition of Bluebonnet Care Partners",
+    "detail": "Coastal Medical Group acquired Bluebonnet Care Partners as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Galleria Growth Partners completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-03-10",
+    "type": "mandate",
+    "firm": "panhandle-holdings",
+    "title": "Panhandle Holdings confirmed current investment priorities",
+    "detail": "Firm confirmed criteria but declined to share current priorities.",
+    "sector": "Food & Agriculture",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-03-10",
+      "fields": [
+        "cap",
+        "backsIS"
+      ]
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "The firm indicated it is paused; outreach may be better timed after their next update."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-02-18",
+    "type": "mandate",
+    "firm": "san-jacinto-partners",
+    "title": "San Jacinto Partners confirmed current investment priorities",
+    "detail": "Firm confirmed criteria but declined to share current priorities.",
+    "sector": "Energy Services",
+    "source": {
+      "label": "Firm confirmation (email, fictional)",
+      "url": null,
+      "date": "2026-02-18",
+      "fields": []
+    },
+    "why": {
+      "fact": "The firm confirmed its mandate details directly.",
+      "inference": "Confirmed, dated priorities reduce the risk of misdirected outreach."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-02-06",
+    "type": "acq",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital: add-on acquisition of Pioneer Capital",
+    "detail": "Canyon Insurance Group acquired Pioneer Capital as an add-on.",
+    "sector": "Financial Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Live Oak Growth Capital completed a add-on acquisition in financial services.",
+      "inference": "Active add-on programs usually continue; comparable financial services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-01-29",
+    "type": "acq",
+    "firm": "trinity-ridge",
+    "title": "Trinity Ridge Partners: add-on acquisition of Sabine Fabrication",
+    "detail": "Bright Start Manufacturing acquired Sabine Fabrication as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Trinity Ridge Partners completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-01-24",
+    "type": "acq",
+    "firm": "white-rock-partners",
+    "title": "White Rock Partners: add-on acquisition of Cedar Provisions",
+    "detail": "Longhorn Provisions acquired Cedar Provisions as an add-on.",
+    "sector": "Food & Agriculture",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "White Rock Partners completed a add-on acquisition in food & agriculture.",
+      "inference": "Active add-on programs usually continue; comparable food & agriculture businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-01-10",
+    "type": "acq",
+    "firm": "barton-creek-fo",
+    "title": "Barton Creek Holdings: add-on acquisition of Apex Construction Services",
+    "detail": "Cedar Construction Services acquired Apex Construction Services as an add-on.",
+    "sector": "Infrastructure Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Barton Creek Holdings completed a add-on acquisition in infrastructure services.",
+      "inference": "Active add-on programs usually continue; comparable infrastructure services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2026-01-09",
+    "type": "acq",
+    "firm": "san-jacinto-partners",
+    "title": "San Jacinto Partners: add-on acquisition of Canyon Supply",
+    "detail": "Granite Supply acquired Canyon Supply as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "San Jacinto Partners completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-12-31",
+    "type": "acq",
+    "firm": "highland-park-cap",
+    "title": "Highland Park Capital Advisors: add-on acquisition of Coastal Capital",
+    "detail": "Prairie Capital acquired Coastal Capital as an add-on.",
+    "sector": "Financial Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Highland Park Capital Advisors completed a add-on acquisition in financial services.",
+      "inference": "Active add-on programs usually continue; comparable financial services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-12-14",
+    "type": "acq",
+    "firm": "san-jacinto-partners",
+    "title": "San Jacinto Partners: add-on acquisition of Coastal Distribution",
+    "detail": "Canyon Supply acquired Coastal Distribution as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "San Jacinto Partners completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-12-10",
+    "type": "acq",
+    "firm": "pedernales-capital",
+    "title": "Pedernales Capital: platform acquisition of Cedar Software",
+    "detail": "Acquired Cedar Software (Houston) as a new platform.",
+    "sector": "Software & Tech-Enabled Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/pedernales-capital-announcement",
+      "date": "2026-01-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Pedernales Capital completed a platform acquisition in software & tech-enabled services.",
+      "inference": "A new platform typically starts an add-on search within 6–18 months; sub-scale software & tech-enabled services businesses may now be relevant."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-12-02",
+    "type": "acq",
+    "firm": "alamo-plaza-holdings",
+    "title": "Alamo Plaza Holdings: add-on acquisition of Bright Start Provisions",
+    "detail": "Coastal Provisions acquired Bright Start Provisions as an add-on.",
+    "sector": "Food & Agriculture",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Alamo Plaza Holdings completed a add-on acquisition in food & agriculture.",
+      "inference": "Active add-on programs usually continue; comparable food & agriculture businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-10-11",
+    "type": "acq",
+    "firm": "ship-channel-equity",
+    "title": "Ship Channel Equity: add-on acquisition of Mission Energy Services",
+    "detail": "Canyon Field Services acquired Mission Energy Services as an add-on.",
+    "sector": "Energy Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/ship-channel-equity-announcement",
+      "date": "2026-08-03",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Ship Channel Equity completed a add-on acquisition in energy services.",
+      "inference": "Active add-on programs usually continue; comparable energy services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-10-09",
+    "type": "acq",
+    "firm": "highland-park-cap",
+    "title": "Highland Park Capital Advisors: add-on acquisition of Cedar Insurance Group",
+    "detail": "Summit Capital acquired Cedar Insurance Group as an add-on.",
+    "sector": "Financial Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Highland Park Capital Advisors completed a add-on acquisition in financial services.",
+      "inference": "Active add-on programs usually continue; comparable financial services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-28",
+    "type": "acq",
+    "firm": "medina-valley-fo",
+    "title": "Medina Valley Investments: add-on acquisition of Mission Health",
+    "detail": "Summit Care Partners acquired Mission Health as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Medina Valley Investments completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-28",
+    "type": "acq",
+    "firm": "lone-star-health",
+    "title": "Lone Star Health Partners: add-on acquisition of Coastal Medical Group",
+    "detail": "Coastal Care Partners acquired Coastal Medical Group as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Lone Star Health Partners completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-17",
+    "type": "acq",
+    "firm": "barton-creek-fo",
+    "title": "Barton Creek Holdings: add-on acquisition of Summit Industries",
+    "detail": "Canyon Fabrication acquired Summit Industries as an add-on.",
+    "sector": "Industrials",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Barton Creek Holdings completed a add-on acquisition in industrials.",
+      "inference": "Active add-on programs usually continue; comparable industrials businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-17",
+    "type": "acq",
+    "firm": "gulf-stream-growth",
+    "title": "Gulf Stream Growth Partners: add-on acquisition of Pioneer Health",
+    "detail": "Granite Health acquired Pioneer Health as an add-on.",
+    "sector": "Healthcare Services",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Gulf Stream Growth Partners completed a add-on acquisition in healthcare services.",
+      "inference": "Active add-on programs usually continue; comparable healthcare services businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-17",
+    "type": "fund",
+    "firm": "mesquite-industrial",
+    "title": "Mesquite Industrial Partners closes Fund V",
+    "detail": "Final close of Fund V, $900M (2025).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund V, $900M (2025)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-09",
+    "type": "acq",
+    "firm": "mesquite-industrial",
+    "title": "Mesquite Industrial Partners: add-on acquisition of Coastal Logistics",
+    "detail": "Canyon Distribution acquired Coastal Logistics as an add-on.",
+    "sector": "Distribution & Logistics",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Mesquite Industrial Partners completed a add-on acquisition in distribution & logistics.",
+      "inference": "Active add-on programs usually continue; comparable distribution & logistics businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-09-08",
+    "type": "acq",
+    "firm": "panhandle-holdings",
+    "title": "Panhandle Holdings: add-on acquisition of Mission Foods",
+    "detail": "Bright Start Foods acquired Mission Foods as an add-on.",
+    "sector": "Food & Agriculture",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "Panhandle Holdings completed a add-on acquisition in food & agriculture.",
+      "inference": "Active add-on programs usually continue; comparable food & agriculture businesses may fit the same platform."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-08-04",
+    "type": "fund",
+    "firm": "highland-park-cap",
+    "title": "Highland Park Capital Advisors closes Fund IV",
+    "detail": "Final close of Fund IV, $1.3B (2025).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund IV, $1.3B (2025)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-07-13",
+    "type": "fund",
+    "firm": "hill-country-growth",
+    "title": "Hill Country Growth Equity closes Fund II",
+    "detail": "Final close of Fund II, $340M (2025).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/hill-country-growth-equity-announcement",
+      "date": "2026-02-18",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund II, $340M (2025)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-04-09",
+    "type": "fund",
+    "firm": "live-oak-growth",
+    "title": "Live Oak Growth Capital closes Fund III",
+    "detail": "Final close of Fund III, $600M (2024).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund III, $600M (2024)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-03-02",
+    "type": "fund",
+    "firm": "trinity-ridge",
+    "title": "Trinity Ridge Partners closes Fund IV",
+    "detail": "Final close of Fund IV, $650M (2024).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund IV, $650M (2024)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-02-05",
+    "type": "fund",
+    "firm": "white-rock-partners",
+    "title": "White Rock Partners closes Fund III",
+    "detail": "Final close of Fund III, $475M (2024).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund III, $475M (2024)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  },
+  {
+    "date": "2025-01-29",
+    "type": "fund",
+    "firm": "lone-star-health",
+    "title": "Lone Star Health Partners closes Fund III",
+    "detail": "Final close of Fund III, $520M (2024).",
+    "sector": null,
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "why": {
+      "fact": "A new fund was closed (Fund III, $520M (2024)).",
+      "inference": "Fresh committed capital usually means an active deployment period over the next 2–3 years."
+    },
+    "is_sample": true
+  }
+]

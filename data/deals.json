@@ -1,0 +1,3338 @@
+[
+  {
+    "id": "live-oak-growth-frontier-software-2026-10-04",
+    "date": "2026-10-04",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital adds Frontier Software",
+    "gp": "live-oak-growth",
+    "company": "Frontier Software",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Harbor Technologies",
+    "summary": "Harbor Technologies acquired Frontier Software as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-meridian-solutions-group-2026-09-27",
+    "date": "2026-09-27",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "Highland Park Capital Advisors adds Meridian Solutions Group",
+    "gp": "highland-park-cap",
+    "company": "Meridian Solutions Group",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Pioneer Services",
+    "summary": "Pioneer Services acquired Meridian Solutions Group as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-meridian-systems-2026-09-25",
+    "date": "2026-09-25",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "Barton Creek Holdings adds Meridian Systems",
+    "gp": "barton-creek-fo",
+    "company": "Meridian Systems",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Technologies",
+    "summary": "Canyon Technologies acquired Meridian Systems as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-summit-supply-2026-09-01",
+    "date": "2026-09-01",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings adds Summit Supply",
+    "gp": "alamo-plaza-holdings",
+    "company": "Summit Supply",
+    "sector": "Distribution & Logistics",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Meridian Supply",
+    "summary": "Meridian Supply acquired Summit Supply as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-coastal-farms-2026-08-30",
+    "date": "2026-08-30",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings adds Coastal Farms",
+    "gp": "alamo-plaza-holdings",
+    "company": "Coastal Farms",
+    "sector": "Food & Agriculture",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Coastal Foods",
+    "summary": "Coastal Foods acquired Coastal Farms as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-holdings-longhorn-fabrication-2026-08-23",
+    "date": "2026-08-23",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "Panhandle Holdings adds Longhorn Fabrication",
+    "gp": "panhandle-holdings",
+    "company": "Longhorn Fabrication",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Lonestar Industries",
+    "summary": "Lonestar Industries acquired Longhorn Fabrication as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "trinity-ridge-lonestar-partners-2026-08-12",
+    "date": "2026-08-12",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Trinity Ridge Partners adds Lonestar Partners",
+    "gp": "trinity-ridge",
+    "company": "Lonestar Partners",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Coastal Solutions Group",
+    "summary": "Coastal Solutions Group acquired Lonestar Partners as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-meridian-construction-services-2026-08-08",
+    "date": "2026-08-08",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "Barton Creek Holdings adds Meridian Construction Services",
+    "gp": "barton-creek-fo",
+    "company": "Meridian Construction Services",
+    "sector": "Infrastructure Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Lonestar Construction Services",
+    "summary": "Lonestar Construction Services acquired Meridian Construction Services as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "cibolo-creek-is-granite-industries-2026-06-29",
+    "date": "2026-06-29",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Cibolo Creek Capital adds Granite Industries",
+    "gp": "cibolo-creek-is",
+    "company": "Granite Industries",
+    "sector": "Industrials",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Cedar Fabrication",
+    "summary": "Cedar Fabrication acquired Granite Industries as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/cibolo-creek-capital-announcement",
+      "date": "2026-02-09",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-longhorn-technologies-2026-06-19",
+    "date": "2026-06-19",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital adds Longhorn Technologies",
+    "gp": "live-oak-growth",
+    "company": "Longhorn Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Meridian Technologies",
+    "summary": "Meridian Technologies acquired Longhorn Technologies as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz-meridian-logistics-2026-06-02",
+    "date": "2026-06-02",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "North Texas Structured Capital adds Meridian Logistics",
+    "gp": "north-texas-mezz",
+    "company": "Meridian Logistics",
+    "sector": "Distribution & Logistics",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Granite Distribution",
+    "summary": "Granite Distribution acquired Meridian Logistics as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "white-rock-partners-harbor-foods-2026-05-06",
+    "date": "2026-05-06",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "White Rock Partners adds Harbor Foods",
+    "gp": "white-rock-partners",
+    "company": "Harbor Foods",
+    "sector": "Food & Agriculture",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Bright Start Farms",
+    "summary": "Bright Start Farms acquired Harbor Foods as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-summit-medical-group-2026-05-05",
+    "date": "2026-05-05",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital adds Summit Medical Group",
+    "gp": "live-oak-growth",
+    "company": "Summit Medical Group",
+    "sector": "Healthcare Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Cedar Health",
+    "summary": "Cedar Health acquired Summit Medical Group as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-granite-partners-2026-05-03",
+    "date": "2026-05-03",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners adds Granite Partners",
+    "gp": "galleria-growth",
+    "company": "Granite Partners",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Prairie Partners",
+    "summary": "Prairie Partners acquired Granite Partners as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap-mission-compression-2026-04-28",
+    "date": "2026-04-28",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Bayou City Capital adds Mission Compression",
+    "gp": "bayou-city-cap",
+    "company": "Mission Compression",
+    "sector": "Energy Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Lonestar Compression",
+    "summary": "Lonestar Compression acquired Mission Compression as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-prairie-supply-2026-04-23",
+    "date": "2026-04-23",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings adds Prairie Supply",
+    "gp": "alamo-plaza-holdings",
+    "company": "Prairie Supply",
+    "sector": "Distribution & Logistics",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Logistics",
+    "summary": "Canyon Logistics acquired Prairie Supply as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-longhorn-industries-2026-04-16",
+    "date": "2026-04-16",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "Barton Creek Holdings adds Longhorn Industries",
+    "gp": "barton-creek-fo",
+    "company": "Longhorn Industries",
+    "sector": "Industrials",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Apex Industries",
+    "summary": "Apex Industries acquired Longhorn Industries as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz-bluebonnet-supply-2026-04-13",
+    "date": "2026-04-13",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "North Texas Structured Capital adds Bluebonnet Supply",
+    "gp": "north-texas-mezz",
+    "company": "Bluebonnet Supply",
+    "sector": "Distribution & Logistics",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Summit Logistics",
+    "summary": "Summit Logistics acquired Bluebonnet Supply as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-pioneer-health-2026-04-11",
+    "date": "2026-04-11",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners adds Pioneer Health",
+    "gp": "lone-star-health",
+    "company": "Pioneer Health",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Coastal Health",
+    "summary": "Coastal Health acquired Pioneer Health as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-bluebonnet-health-2026-04-11",
+    "date": "2026-04-11",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners adds Bluebonnet Health",
+    "gp": "lone-star-health",
+    "company": "Bluebonnet Health",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Cedar Care Partners",
+    "summary": "Cedar Care Partners acquired Bluebonnet Health as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-prairie-industries-2026-04-06",
+    "date": "2026-04-06",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners adds Prairie Industries",
+    "gp": "san-jacinto-partners",
+    "company": "Prairie Industries",
+    "sector": "Industrials",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Longhorn Fabrication",
+    "summary": "Longhorn Fabrication acquired Prairie Industries as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "trinity-ridge-summit-solutions-group-2026-04-06",
+    "date": "2026-04-06",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Trinity Ridge Partners adds Summit Solutions Group",
+    "gp": "trinity-ridge",
+    "company": "Summit Solutions Group",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Bluebonnet Solutions Group",
+    "summary": "Bluebonnet Solutions Group acquired Summit Solutions Group as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap-canyon-industries-2026-03-16",
+    "date": "2026-03-16",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Bayou City Capital adds Canyon Industries",
+    "gp": "bayou-city-cap",
+    "company": "Canyon Industries",
+    "sector": "Industrials",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Granite Manufacturing",
+    "summary": "Granite Manufacturing acquired Canyon Industries as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-bluebonnet-care-partners-2026-03-11",
+    "date": "2026-03-11",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners adds Bluebonnet Care Partners",
+    "gp": "galleria-growth",
+    "company": "Bluebonnet Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Coastal Medical Group",
+    "summary": "Coastal Medical Group acquired Bluebonnet Care Partners as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-pioneer-capital-2026-02-06",
+    "date": "2026-02-06",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital adds Pioneer Capital",
+    "gp": "live-oak-growth",
+    "company": "Pioneer Capital",
+    "sector": "Financial Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Insurance Group",
+    "summary": "Canyon Insurance Group acquired Pioneer Capital as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "trinity-ridge-sabine-fabrication-2026-01-29",
+    "date": "2026-01-29",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Trinity Ridge Partners adds Sabine Fabrication",
+    "gp": "trinity-ridge",
+    "company": "Sabine Fabrication",
+    "sector": "Industrials",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Bright Start Manufacturing",
+    "summary": "Bright Start Manufacturing acquired Sabine Fabrication as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "white-rock-partners-cedar-provisions-2026-01-24",
+    "date": "2026-01-24",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "White Rock Partners adds Cedar Provisions",
+    "gp": "white-rock-partners",
+    "company": "Cedar Provisions",
+    "sector": "Food & Agriculture",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Longhorn Provisions",
+    "summary": "Longhorn Provisions acquired Cedar Provisions as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-apex-construction-services-2026-01-10",
+    "date": "2026-01-10",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "Barton Creek Holdings adds Apex Construction Services",
+    "gp": "barton-creek-fo",
+    "company": "Apex Construction Services",
+    "sector": "Infrastructure Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Cedar Construction Services",
+    "summary": "Cedar Construction Services acquired Apex Construction Services as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-canyon-supply-2026-01-09",
+    "date": "2026-01-09",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners adds Canyon Supply",
+    "gp": "san-jacinto-partners",
+    "company": "Canyon Supply",
+    "sector": "Distribution & Logistics",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Granite Supply",
+    "summary": "Granite Supply acquired Canyon Supply as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-coastal-capital-2025-12-31",
+    "date": "2025-12-31",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "Highland Park Capital Advisors adds Coastal Capital",
+    "gp": "highland-park-cap",
+    "company": "Coastal Capital",
+    "sector": "Financial Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Prairie Capital",
+    "summary": "Prairie Capital acquired Coastal Capital as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-coastal-distribution-2025-12-14",
+    "date": "2025-12-14",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners adds Coastal Distribution",
+    "gp": "san-jacinto-partners",
+    "company": "Coastal Distribution",
+    "sector": "Distribution & Logistics",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Supply",
+    "summary": "Canyon Supply acquired Coastal Distribution as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "pedernales-capital-cedar-software-2025-12-10",
+    "date": "2025-12-10",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Pedernales Capital acquires Cedar Software",
+    "gp": "pedernales-capital",
+    "company": "Cedar Software",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Pedernales Capital",
+    "summary": "Acquired Cedar Software (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/pedernales-capital-announcement",
+      "date": "2026-01-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-bright-start-provisions-2025-12-02",
+    "date": "2025-12-02",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings adds Bright Start Provisions",
+    "gp": "alamo-plaza-holdings",
+    "company": "Bright Start Provisions",
+    "sector": "Food & Agriculture",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Coastal Provisions",
+    "summary": "Coastal Provisions acquired Bright Start Provisions as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "ship-channel-equity-mission-energy-services-2025-10-11",
+    "date": "2025-10-11",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Ship Channel Equity adds Mission Energy Services",
+    "gp": "ship-channel-equity",
+    "company": "Mission Energy Services",
+    "sector": "Energy Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Field Services",
+    "summary": "Canyon Field Services acquired Mission Energy Services as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/ship-channel-equity-announcement",
+      "date": "2026-08-03",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-cedar-insurance-group-2025-10-09",
+    "date": "2025-10-09",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "Highland Park Capital Advisors adds Cedar Insurance Group",
+    "gp": "highland-park-cap",
+    "company": "Cedar Insurance Group",
+    "sector": "Financial Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Summit Capital",
+    "summary": "Summit Capital acquired Cedar Insurance Group as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo-mission-health-2025-09-28",
+    "date": "2025-09-28",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Medina Valley Investments adds Mission Health",
+    "gp": "medina-valley-fo",
+    "company": "Mission Health",
+    "sector": "Healthcare Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Summit Care Partners",
+    "summary": "Summit Care Partners acquired Mission Health as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-coastal-medical-group-2025-09-28",
+    "date": "2025-09-28",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners adds Coastal Medical Group",
+    "gp": "lone-star-health",
+    "company": "Coastal Medical Group",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Coastal Care Partners",
+    "summary": "Coastal Care Partners acquired Coastal Medical Group as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-summit-industries-2025-09-17",
+    "date": "2025-09-17",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "Barton Creek Holdings adds Summit Industries",
+    "gp": "barton-creek-fo",
+    "company": "Summit Industries",
+    "sector": "Industrials",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Fabrication",
+    "summary": "Canyon Fabrication acquired Summit Industries as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-pioneer-health-2025-09-17",
+    "date": "2025-09-17",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners adds Pioneer Health",
+    "gp": "gulf-stream-growth",
+    "company": "Pioneer Health",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Granite Health",
+    "summary": "Granite Health acquired Pioneer Health as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-coastal-logistics-2025-09-09",
+    "date": "2025-09-09",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners adds Coastal Logistics",
+    "gp": "mesquite-industrial",
+    "company": "Coastal Logistics",
+    "sector": "Distribution & Logistics",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Canyon Distribution",
+    "summary": "Canyon Distribution acquired Coastal Logistics as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-holdings-mission-foods-2025-09-08",
+    "date": "2025-09-08",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "Panhandle Holdings adds Mission Foods",
+    "gp": "panhandle-holdings",
+    "company": "Mission Foods",
+    "sector": "Food & Agriculture",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Bright Start Foods",
+    "summary": "Bright Start Foods acquired Mission Foods as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "ship-channel-equity-canyon-field-services-2025-08-25",
+    "date": "2025-08-25",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Ship Channel Equity acquires Canyon Field Services",
+    "gp": "ship-channel-equity",
+    "company": "Canyon Field Services",
+    "sector": "Energy Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Ship Channel Equity",
+    "summary": "Acquired Canyon Field Services (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/ship-channel-equity-announcement",
+      "date": "2026-08-03",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-canyon-logistics-2025-08-24",
+    "date": "2025-08-24",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings acquires Canyon Logistics",
+    "gp": "alamo-plaza-holdings",
+    "company": "Canyon Logistics",
+    "sector": "Distribution & Logistics",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Alamo Plaza Holdings",
+    "summary": "Acquired Canyon Logistics (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-summit-manufacturing-2025-08-22",
+    "date": "2025-08-22",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners adds Summit Manufacturing",
+    "gp": "san-jacinto-partners",
+    "company": "Summit Manufacturing",
+    "sector": "Industrials",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Granite Industries",
+    "summary": "Granite Industries acquired Summit Manufacturing as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-granite-care-partners-2025-08-18",
+    "date": "2025-08-18",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners adds Granite Care Partners",
+    "gp": "gulf-stream-growth",
+    "company": "Granite Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Meridian Care Partners",
+    "summary": "Meridian Care Partners acquired Granite Care Partners as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-granite-industries-2025-08-14",
+    "date": "2025-08-14",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners acquires Granite Industries",
+    "gp": "san-jacinto-partners",
+    "company": "Granite Industries",
+    "sector": "Industrials",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "San Jacinto Partners",
+    "summary": "Acquired Granite Industries (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-summit-capital-2025-08-12",
+    "date": "2025-08-12",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Highland Park Capital Advisors acquires Summit Capital",
+    "gp": "highland-park-cap",
+    "company": "Summit Capital",
+    "sector": "Financial Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Highland Park Capital Advisors",
+    "summary": "Acquired Summit Capital (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-mission-technologies-2025-08-10",
+    "date": "2025-08-10",
+    "type": "Add-on acquisition",
+    "status": "signed",
+    "headline": "Barton Creek Holdings adds Mission Technologies",
+    "gp": "barton-creek-fo",
+    "company": "Mission Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Bluebonnet Software",
+    "summary": "Bluebonnet Software acquired Mission Technologies as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-growth-bluebonnet-software-2025-08-08",
+    "date": "2025-08-08",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Hill Country Growth Equity acquires Bluebonnet Software",
+    "gp": "hill-country-growth",
+    "company": "Bluebonnet Software",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Hill Country Growth Equity",
+    "summary": "Acquired Bluebonnet Software (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/hill-country-growth-equity-announcement",
+      "date": "2026-02-18",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-bluebonnet-partners-2025-07-31",
+    "date": "2025-07-31",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners adds Bluebonnet Partners",
+    "gp": "galleria-growth",
+    "company": "Bluebonnet Partners",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Apex Partners",
+    "summary": "Apex Partners acquired Bluebonnet Partners as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo-cedar-health-2025-07-26",
+    "date": "2025-07-26",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Medina Valley Investments adds Cedar Health",
+    "gp": "medina-valley-fo",
+    "company": "Cedar Health",
+    "sector": "Healthcare Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Meridian Health",
+    "summary": "Meridian Health acquired Cedar Health as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "stockyards-capital-summit-brands-2025-07-16",
+    "date": "2025-07-16",
+    "type": "Add-on acquisition",
+    "status": "announced",
+    "headline": "Stockyards Capital Group adds Summit Brands",
+    "gp": "stockyards-capital",
+    "company": "Summit Brands",
+    "sector": "Consumer",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Bright Start Brands",
+    "summary": "Bright Start Brands acquired Summit Brands as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/stockyards-capital-group-announcement",
+      "date": "2026-01-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-longhorn-medical-group-2025-07-02",
+    "date": "2025-07-02",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners adds Longhorn Medical Group",
+    "gp": "gulf-stream-growth",
+    "company": "Longhorn Medical Group",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Mission Health",
+    "summary": "Mission Health acquired Longhorn Medical Group as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap-apex-field-services-2025-06-14",
+    "date": "2025-06-14",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Bayou City Capital acquires Apex Field Services",
+    "gp": "bayou-city-cap",
+    "company": "Apex Field Services",
+    "sector": "Energy Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Bayou City Capital",
+    "summary": "Acquired Apex Field Services (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-summit-systems-2025-06-10",
+    "date": "2025-06-10",
+    "type": "Add-on acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital adds Summit Systems",
+    "gp": "live-oak-growth",
+    "company": "Summit Systems",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Prairie Technologies",
+    "summary": "Prairie Technologies acquired Summit Systems as an add-on.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo-meridian-health-2025-06-04",
+    "date": "2025-06-04",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Medina Valley Investments acquires Meridian Health",
+    "gp": "medina-valley-fo",
+    "company": "Meridian Health",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Medina Valley Investments",
+    "summary": "Acquired Meridian Health (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-apex-partners-2025-05-26",
+    "date": "2025-05-26",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners acquires Apex Partners",
+    "gp": "galleria-growth",
+    "company": "Apex Partners",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Galleria Growth Partners",
+    "summary": "Acquired Apex Partners (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "riverwalk-partners-summit-utility-services-2025-05-24",
+    "date": "2025-05-24",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Riverwalk Equity Partners acquires Summit Utility Services",
+    "gp": "riverwalk-partners",
+    "company": "Summit Utility Services",
+    "sector": "Infrastructure Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Riverwalk Equity Partners",
+    "summary": "Acquired Summit Utility Services (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/riverwalk-equity-partners-announcement",
+      "date": "2025-12-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-meridian-care-partners-2025-05-09",
+    "date": "2025-05-09",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners acquires Meridian Care Partners",
+    "gp": "gulf-stream-growth",
+    "company": "Meridian Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Gulf Stream Growth Partners",
+    "summary": "Acquired Meridian Care Partners (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "brazos-river-fo-bluebonnet-compression-2025-04-26",
+    "date": "2025-04-26",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Brazos River Family Office acquires Bluebonnet Compression",
+    "gp": "brazos-river-fo",
+    "company": "Bluebonnet Compression",
+    "sector": "Energy Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Brazos River Family Office",
+    "summary": "Acquired Bluebonnet Compression (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/brazos-river-family-office-announcement",
+      "date": "2026-01-26",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-holdings-bright-start-foods-2025-04-10",
+    "date": "2025-04-10",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Panhandle Holdings acquires Bright Start Foods",
+    "gp": "panhandle-holdings",
+    "company": "Bright Start Foods",
+    "sector": "Food & Agriculture",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Panhandle Holdings",
+    "summary": "Acquired Bright Start Foods (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-growth-meridian-services-2025-04-09",
+    "date": "2025-04-09",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Hill Country Growth Equity acquires Meridian Services",
+    "gp": "hill-country-growth",
+    "company": "Meridian Services",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Hill Country Growth Equity",
+    "summary": "Acquired Meridian Services (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/hill-country-growth-equity-announcement",
+      "date": "2026-02-18",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-prairie-care-partners-2025-03-14",
+    "date": "2025-03-14",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners acquires Prairie Care Partners",
+    "gp": "gulf-stream-growth",
+    "company": "Prairie Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Gulf Stream Growth Partners",
+    "summary": "Acquired Prairie Care Partners (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-holdings-lonestar-industries-2025-02-18",
+    "date": "2025-02-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Panhandle Holdings acquires Lonestar Industries",
+    "gp": "panhandle-holdings",
+    "company": "Lonestar Industries",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Panhandle Holdings",
+    "summary": "Acquired Lonestar Industries (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "capital-metro-ventures-granite-technologies-2024-11-02",
+    "date": "2024-11-02",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Capitol Metro Partners acquires Granite Technologies",
+    "gp": "capital-metro-ventures",
+    "company": "Granite Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Capitol Metro Partners",
+    "summary": "Acquired Granite Technologies (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/capitol-metro-partners-announcement",
+      "date": "2026-03-25",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-coastal-provisions-2024-10-19",
+    "date": "2024-10-19",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings acquires Coastal Provisions",
+    "gp": "alamo-plaza-holdings",
+    "company": "Coastal Provisions",
+    "sector": "Food & Agriculture",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Alamo Plaza Holdings",
+    "summary": "Acquired Coastal Provisions (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-growth-bright-start-systems-2024-09-24",
+    "date": "2024-09-24",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Hill Country Growth Equity acquires Bright Start Systems",
+    "gp": "hill-country-growth",
+    "company": "Bright Start Systems",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Hill Country Growth Equity",
+    "summary": "Acquired Bright Start Systems (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/hill-country-growth-equity-announcement",
+      "date": "2026-02-18",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "capital-metro-ventures-meridian-partners-2024-09-22",
+    "date": "2024-09-22",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Capitol Metro Partners acquires Meridian Partners",
+    "gp": "capital-metro-ventures",
+    "company": "Meridian Partners",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Capitol Metro Partners",
+    "summary": "Acquired Meridian Partners (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/capitol-metro-partners-announcement",
+      "date": "2026-03-25",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap-granite-manufacturing-2024-09-06",
+    "date": "2024-09-06",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Bayou City Capital acquires Granite Manufacturing",
+    "gp": "bayou-city-cap",
+    "company": "Granite Manufacturing",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Bayou City Capital",
+    "summary": "Acquired Granite Manufacturing (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-cedar-health-2024-06-23",
+    "date": "2024-06-23",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital acquires Cedar Health",
+    "gp": "live-oak-growth",
+    "company": "Cedar Health",
+    "sector": "Healthcare Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Live Oak Growth Capital",
+    "summary": "Acquired Cedar Health (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-coastal-care-partners-2024-06-04",
+    "date": "2024-06-04",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners acquires Coastal Care Partners",
+    "gp": "lone-star-health",
+    "company": "Coastal Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Lone Star Health Partners",
+    "summary": "Acquired Coastal Care Partners (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-coastal-medical-group-2024-04-04",
+    "date": "2024-04-04",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners acquires Coastal Medical Group",
+    "gp": "galleria-growth",
+    "company": "Coastal Medical Group",
+    "sector": "Healthcare Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Galleria Growth Partners",
+    "summary": "Acquired Coastal Medical Group (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-sabine-medical-group-2024-04-02",
+    "date": "2024-04-02",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners acquires Sabine Medical Group",
+    "gp": "lone-star-health",
+    "company": "Sabine Medical Group",
+    "sector": "Healthcare Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Lone Star Health Partners",
+    "summary": "Acquired Sabine Medical Group (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "riverwalk-partners-frontier-industries-2024-03-26",
+    "date": "2024-03-26",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Riverwalk Equity Partners acquires Frontier Industries",
+    "gp": "riverwalk-partners",
+    "company": "Frontier Industries",
+    "sector": "Industrials",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Riverwalk Equity Partners",
+    "summary": "Acquired Frontier Industries (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/riverwalk-equity-partners-announcement",
+      "date": "2025-12-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "trinity-ridge-bright-start-manufacturing-2024-03-14",
+    "date": "2024-03-14",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Trinity Ridge Partners acquires Bright Start Manufacturing",
+    "gp": "trinity-ridge",
+    "company": "Bright Start Manufacturing",
+    "sector": "Industrials",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Trinity Ridge Partners",
+    "summary": "Acquired Bright Start Manufacturing (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo-longhorn-partners-2024-03-08",
+    "date": "2024-03-08",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Medina Valley Investments acquires Longhorn Partners",
+    "gp": "medina-valley-fo",
+    "company": "Longhorn Partners",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Medina Valley Investments",
+    "summary": "Acquired Longhorn Partners (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz-harbor-services-2023-12-26",
+    "date": "2023-12-26",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "North Texas Structured Capital acquires Harbor Services",
+    "gp": "north-texas-mezz",
+    "company": "Harbor Services",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "North Texas Structured Capital",
+    "summary": "Acquired Harbor Services (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz-granite-distribution-2023-12-14",
+    "date": "2023-12-14",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "North Texas Structured Capital acquires Granite Distribution",
+    "gp": "north-texas-mezz",
+    "company": "Granite Distribution",
+    "sector": "Distribution & Logistics",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "North Texas Structured Capital",
+    "summary": "Acquired Granite Distribution (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "pedernales-capital-summit-provisions-2023-09-19",
+    "date": "2023-09-19",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Pedernales Capital acquires Summit Provisions",
+    "gp": "pedernales-capital",
+    "company": "Summit Provisions",
+    "sector": "Food & Agriculture",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Pedernales Capital",
+    "summary": "Acquired Summit Provisions (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/pedernales-capital-announcement",
+      "date": "2026-01-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz-summit-logistics-2023-08-27",
+    "date": "2023-08-27",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "North Texas Structured Capital acquires Summit Logistics",
+    "gp": "north-texas-mezz",
+    "company": "Summit Logistics",
+    "sector": "Distribution & Logistics",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "North Texas Structured Capital",
+    "summary": "Acquired Summit Logistics (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "trinity-ridge-coastal-solutions-group-2023-08-09",
+    "date": "2023-08-09",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Trinity Ridge Partners acquires Coastal Solutions Group",
+    "gp": "trinity-ridge",
+    "company": "Coastal Solutions Group",
+    "sector": "Business Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Trinity Ridge Partners",
+    "summary": "Acquired Coastal Solutions Group (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-bluebonnet-software-2023-05-02",
+    "date": "2023-05-02",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Barton Creek Holdings acquires Bluebonnet Software",
+    "gp": "barton-creek-fo",
+    "company": "Bluebonnet Software",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Barton Creek Holdings",
+    "summary": "Acquired Bluebonnet Software (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "stockyards-capital-pioneer-solutions-group-2023-04-16",
+    "date": "2023-04-16",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Stockyards Capital Group acquires Pioneer Solutions Group",
+    "gp": "stockyards-capital",
+    "company": "Pioneer Solutions Group",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Stockyards Capital Group",
+    "summary": "Acquired Pioneer Solutions Group (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/stockyards-capital-group-announcement",
+      "date": "2026-01-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-canyon-technologies-2023-04-09",
+    "date": "2023-04-09",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Barton Creek Holdings acquires Canyon Technologies",
+    "gp": "barton-creek-fo",
+    "company": "Canyon Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Barton Creek Holdings",
+    "summary": "Acquired Canyon Technologies (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "white-rock-partners-pioneer-fabrication-2023-04-08",
+    "date": "2023-04-08",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "White Rock Partners acquires Pioneer Fabrication",
+    "gp": "white-rock-partners",
+    "company": "Pioneer Fabrication",
+    "sector": "Industrials",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "White Rock Partners",
+    "summary": "Acquired Pioneer Fabrication (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-prairie-capital-2023-03-05",
+    "date": "2023-03-05",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Highland Park Capital Advisors acquires Prairie Capital",
+    "gp": "highland-park-cap",
+    "company": "Prairie Capital",
+    "sector": "Financial Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Highland Park Capital Advisors",
+    "summary": "Acquired Prairie Capital (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-bluebonnet-distribution-2023-01-04",
+    "date": "2023-01-04",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners acquires Bluebonnet Distribution",
+    "gp": "mesquite-industrial",
+    "company": "Bluebonnet Distribution",
+    "sector": "Distribution & Logistics",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Mesquite Industrial Partners",
+    "summary": "Acquired Bluebonnet Distribution (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-canyon-supply-2022-12-22",
+    "date": "2022-12-22",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners acquires Canyon Supply",
+    "gp": "mesquite-industrial",
+    "company": "Canyon Supply",
+    "sector": "Distribution & Logistics",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Mesquite Industrial Partners",
+    "summary": "Acquired Canyon Supply (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo-summit-services-2022-11-22",
+    "date": "2022-11-22",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Medina Valley Investments acquires Summit Services",
+    "gp": "medina-valley-fo",
+    "company": "Summit Services",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Medina Valley Investments",
+    "summary": "Acquired Summit Services (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-prairie-technologies-2022-10-03",
+    "date": "2022-10-03",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital acquires Prairie Technologies",
+    "gp": "live-oak-growth",
+    "company": "Prairie Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Live Oak Growth Capital",
+    "summary": "Acquired Prairie Technologies (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-mission-health-2022-09-22",
+    "date": "2022-09-22",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners acquires Mission Health",
+    "gp": "gulf-stream-growth",
+    "company": "Mission Health",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Gulf Stream Growth Partners",
+    "summary": "Acquired Mission Health (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "white-rock-partners-longhorn-provisions-2022-08-18",
+    "date": "2022-08-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "White Rock Partners acquires Longhorn Provisions",
+    "gp": "white-rock-partners",
+    "company": "Longhorn Provisions",
+    "sector": "Food & Agriculture",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "White Rock Partners",
+    "summary": "Acquired Longhorn Provisions (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-harbor-technologies-2022-07-07",
+    "date": "2022-07-07",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital acquires Harbor Technologies",
+    "gp": "live-oak-growth",
+    "company": "Harbor Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Live Oak Growth Capital",
+    "summary": "Acquired Harbor Technologies (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-meridian-technologies-2022-07-07",
+    "date": "2022-07-07",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital acquires Meridian Technologies",
+    "gp": "live-oak-growth",
+    "company": "Meridian Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Live Oak Growth Capital",
+    "summary": "Acquired Meridian Technologies (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-pioneer-services-2022-06-22",
+    "date": "2022-06-22",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Highland Park Capital Advisors acquires Pioneer Services",
+    "gp": "highland-park-cap",
+    "company": "Pioneer Services",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Highland Park Capital Advisors",
+    "summary": "Acquired Pioneer Services (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-lonestar-construction-services-2022-06-03",
+    "date": "2022-06-03",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Barton Creek Holdings acquires Lonestar Construction Services",
+    "gp": "barton-creek-fo",
+    "company": "Lonestar Construction Services",
+    "sector": "Infrastructure Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Barton Creek Holdings",
+    "summary": "Acquired Lonestar Construction Services (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "pedernales-capital-prairie-holdings-2022-05-27",
+    "date": "2022-05-27",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Pedernales Capital acquires Prairie Holdings",
+    "gp": "pedernales-capital",
+    "company": "Prairie Holdings",
+    "sector": "Consumer",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Pedernales Capital",
+    "summary": "Acquired Prairie Holdings (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/pedernales-capital-announcement",
+      "date": "2026-01-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "stockyards-capital-bright-start-brands-2022-04-02",
+    "date": "2022-04-02",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Stockyards Capital Group acquires Bright Start Brands",
+    "gp": "stockyards-capital",
+    "company": "Bright Start Brands",
+    "sector": "Consumer",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Stockyards Capital Group",
+    "summary": "Acquired Bright Start Brands (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/stockyards-capital-group-announcement",
+      "date": "2026-01-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "panhandle-holdings-longhorn-manufacturing-2022-03-18",
+    "date": "2022-03-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Panhandle Holdings acquires Longhorn Manufacturing",
+    "gp": "panhandle-holdings",
+    "company": "Longhorn Manufacturing",
+    "sector": "Industrials",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Panhandle Holdings",
+    "summary": "Acquired Longhorn Manufacturing (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/panhandle-holdings-announcement",
+      "date": "2026-07-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-growth-bluebonnet-solutions-group-2022-03-08",
+    "date": "2022-03-08",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Hill Country Growth Equity acquires Bluebonnet Solutions Group",
+    "gp": "hill-country-growth",
+    "company": "Bluebonnet Solutions Group",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Hill Country Growth Equity",
+    "summary": "Acquired Bluebonnet Solutions Group (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/hill-country-growth-equity-announcement",
+      "date": "2026-02-18",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-granite-health-2022-02-11",
+    "date": "2022-02-11",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners acquires Granite Health",
+    "gp": "gulf-stream-growth",
+    "company": "Granite Health",
+    "sector": "Healthcare Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Gulf Stream Growth Partners",
+    "summary": "Acquired Granite Health (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "brazos-river-fo-lonestar-field-services-2022-01-23",
+    "date": "2022-01-23",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Brazos River Family Office acquires Lonestar Field Services",
+    "gp": "brazos-river-fo",
+    "company": "Lonestar Field Services",
+    "sector": "Energy Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Brazos River Family Office",
+    "summary": "Acquired Lonestar Field Services (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/brazos-river-family-office-announcement",
+      "date": "2026-01-26",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-lonestar-logistics-2022-01-16",
+    "date": "2022-01-16",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners acquires Lonestar Logistics",
+    "gp": "mesquite-industrial",
+    "company": "Lonestar Logistics",
+    "sector": "Distribution & Logistics",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Mesquite Industrial Partners",
+    "summary": "Acquired Lonestar Logistics (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-canyon-insurance-group-2021-10-27",
+    "date": "2021-10-27",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital acquires Canyon Insurance Group",
+    "gp": "live-oak-growth",
+    "company": "Canyon Insurance Group",
+    "sector": "Financial Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Live Oak Growth Capital",
+    "summary": "Acquired Canyon Insurance Group (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "white-rock-partners-bright-start-farms-2021-09-20",
+    "date": "2021-09-20",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "White Rock Partners acquires Bright Start Farms",
+    "gp": "white-rock-partners",
+    "company": "Bright Start Farms",
+    "sector": "Food & Agriculture",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "White Rock Partners",
+    "summary": "Acquired Bright Start Farms (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/white-rock-partners-announcement",
+      "date": "2026-05-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-harbor-care-partners-2021-08-20",
+    "date": "2021-08-20",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners acquires Harbor Care Partners",
+    "gp": "galleria-growth",
+    "company": "Harbor Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Galleria Growth Partners",
+    "summary": "Acquired Harbor Care Partners (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "cibolo-creek-is-cedar-fabrication-2021-07-11",
+    "date": "2021-07-11",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Cibolo Creek Capital acquires Cedar Fabrication",
+    "gp": "cibolo-creek-is",
+    "company": "Cedar Fabrication",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Cibolo Creek Capital",
+    "summary": "Acquired Cedar Fabrication (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/cibolo-creek-capital-announcement",
+      "date": "2026-02-09",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "medina-valley-fo-summit-care-partners-2021-06-24",
+    "date": "2021-06-24",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Medina Valley Investments acquires Summit Care Partners",
+    "gp": "medina-valley-fo",
+    "company": "Summit Care Partners",
+    "sector": "Healthcare Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Medina Valley Investments",
+    "summary": "Acquired Summit Care Partners (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/medina-valley-investments-announcement",
+      "date": "2026-01-08",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "brazos-river-fo-pioneer-fabrication-2021-04-07",
+    "date": "2021-04-07",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Brazos River Family Office acquires Pioneer Fabrication",
+    "gp": "brazos-river-fo",
+    "company": "Pioneer Fabrication",
+    "sector": "Industrials",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Brazos River Family Office",
+    "summary": "Acquired Pioneer Fabrication (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/brazos-river-family-office-announcement",
+      "date": "2026-01-26",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hill-country-growth-frontier-systems-2021-03-10",
+    "date": "2021-03-10",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Hill Country Growth Equity acquires Frontier Systems",
+    "gp": "hill-country-growth",
+    "company": "Frontier Systems",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Hill Country Growth Equity",
+    "summary": "Acquired Frontier Systems (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/hill-country-growth-equity-announcement",
+      "date": "2026-02-18",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "buffalo-bayou-is-granite-health-2021-03-06",
+    "date": "2021-03-06",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Buffalo Bayou Partners acquires Granite Health",
+    "gp": "buffalo-bayou-is",
+    "company": "Granite Health",
+    "sector": "Healthcare Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Buffalo Bayou Partners",
+    "summary": "Acquired Granite Health (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/buffalo-bayou-partners-announcement",
+      "date": "2026-05-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "pedernales-capital-bluebonnet-farms-2021-02-23",
+    "date": "2021-02-23",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Pedernales Capital acquires Bluebonnet Farms",
+    "gp": "pedernales-capital",
+    "company": "Bluebonnet Farms",
+    "sector": "Food & Agriculture",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Pedernales Capital",
+    "summary": "Acquired Bluebonnet Farms (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/pedernales-capital-announcement",
+      "date": "2026-01-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-meridian-industries-2021-02-21",
+    "date": "2021-02-21",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners acquires Meridian Industries",
+    "gp": "mesquite-industrial",
+    "company": "Meridian Industries",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Mesquite Industrial Partners",
+    "summary": "Acquired Meridian Industries (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "riverwalk-partners-summit-solutions-group-2021-01-18",
+    "date": "2021-01-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Riverwalk Equity Partners acquires Summit Solutions Group",
+    "gp": "riverwalk-partners",
+    "company": "Summit Solutions Group",
+    "sector": "Business Services",
+    "city": "Dallas",
+    "seller": "Not disclosed",
+    "buyer": "Riverwalk Equity Partners",
+    "summary": "Acquired Summit Solutions Group (Dallas) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/riverwalk-equity-partners-announcement",
+      "date": "2025-12-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-canyon-fabrication-2021-01-14",
+    "date": "2021-01-14",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Barton Creek Holdings acquires Canyon Fabrication",
+    "gp": "barton-creek-fo",
+    "company": "Canyon Fabrication",
+    "sector": "Industrials",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Barton Creek Holdings",
+    "summary": "Acquired Canyon Fabrication (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "ship-channel-equity-granite-compression-2021-01-11",
+    "date": "2021-01-11",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Ship Channel Equity acquires Granite Compression",
+    "gp": "ship-channel-equity",
+    "company": "Granite Compression",
+    "sector": "Energy Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Ship Channel Equity",
+    "summary": "Acquired Granite Compression (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/ship-channel-equity-announcement",
+      "date": "2026-08-03",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap-coastal-energy-services-2020-12-18",
+    "date": "2020-12-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Bayou City Capital acquires Coastal Energy Services",
+    "gp": "bayou-city-cap",
+    "company": "Coastal Energy Services",
+    "sector": "Energy Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Bayou City Capital",
+    "summary": "Acquired Coastal Energy Services (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-longhorn-fabrication-2020-12-01",
+    "date": "2020-12-01",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners acquires Longhorn Fabrication",
+    "gp": "san-jacinto-partners",
+    "company": "Longhorn Fabrication",
+    "sector": "Industrials",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "San Jacinto Partners",
+    "summary": "Acquired Longhorn Fabrication (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-meridian-supply-2020-11-22",
+    "date": "2020-11-22",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings acquires Meridian Supply",
+    "gp": "alamo-plaza-holdings",
+    "company": "Meridian Supply",
+    "sector": "Distribution & Logistics",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Alamo Plaza Holdings",
+    "summary": "Acquired Meridian Supply (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "live-oak-growth-sabine-technologies-2020-10-26",
+    "date": "2020-10-26",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Live Oak Growth Capital acquires Sabine Technologies",
+    "gp": "live-oak-growth",
+    "company": "Sabine Technologies",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Live Oak Growth Capital",
+    "summary": "Acquired Sabine Technologies (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/live-oak-growth-capital-announcement",
+      "date": "2026-06-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "stockyards-capital-canyon-distribution-2020-10-04",
+    "date": "2020-10-04",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Stockyards Capital Group acquires Canyon Distribution",
+    "gp": "stockyards-capital",
+    "company": "Canyon Distribution",
+    "sector": "Distribution & Logistics",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Stockyards Capital Group",
+    "summary": "Acquired Canyon Distribution (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/stockyards-capital-group-announcement",
+      "date": "2026-01-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-meridian-manufacturing-2020-09-23",
+    "date": "2020-09-23",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners acquires Meridian Manufacturing",
+    "gp": "mesquite-industrial",
+    "company": "Meridian Manufacturing",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Mesquite Industrial Partners",
+    "summary": "Acquired Meridian Manufacturing (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-canyon-supply-2020-09-07",
+    "date": "2020-09-07",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners acquires Canyon Supply",
+    "gp": "san-jacinto-partners",
+    "company": "Canyon Supply",
+    "sector": "Distribution & Logistics",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "San Jacinto Partners",
+    "summary": "Acquired Canyon Supply (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "galleria-growth-prairie-partners-2020-08-18",
+    "date": "2020-08-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Galleria Growth Partners acquires Prairie Partners",
+    "gp": "galleria-growth",
+    "company": "Prairie Partners",
+    "sector": "Business Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Galleria Growth Partners",
+    "summary": "Acquired Prairie Partners (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/galleria-growth-partners-announcement",
+      "date": "2026-08-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "bayou-city-cap-lonestar-compression-2020-07-01",
+    "date": "2020-07-01",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Bayou City Capital acquires Lonestar Compression",
+    "gp": "bayou-city-cap",
+    "company": "Lonestar Compression",
+    "sector": "Energy Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Bayou City Capital",
+    "summary": "Acquired Lonestar Compression (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/bayou-city-capital-announcement",
+      "date": "2026-09-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-cedar-care-partners-2020-02-10",
+    "date": "2020-02-10",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners acquires Cedar Care Partners",
+    "gp": "lone-star-health",
+    "company": "Cedar Care Partners",
+    "sector": "Healthcare Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Lone Star Health Partners",
+    "summary": "Acquired Cedar Care Partners (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "alamo-plaza-holdings-coastal-foods-2020-01-26",
+    "date": "2020-01-26",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Alamo Plaza Holdings acquires Coastal Foods",
+    "gp": "alamo-plaza-holdings",
+    "company": "Coastal Foods",
+    "sector": "Food & Agriculture",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Alamo Plaza Holdings",
+    "summary": "Acquired Coastal Foods (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/alamo-plaza-holdings-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-bright-start-medical-group-2020-01-07",
+    "date": "2020-01-07",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners acquires Bright Start Medical Group",
+    "gp": "lone-star-health",
+    "company": "Bright Start Medical Group",
+    "sector": "Healthcare Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Lone Star Health Partners",
+    "summary": "Acquired Bright Start Medical Group (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "trinity-ridge-bluebonnet-solutions-group-2019-12-18",
+    "date": "2019-12-18",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Trinity Ridge Partners acquires Bluebonnet Solutions Group",
+    "gp": "trinity-ridge",
+    "company": "Bluebonnet Solutions Group",
+    "sector": "Business Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Trinity Ridge Partners",
+    "summary": "Acquired Bluebonnet Solutions Group (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/trinity-ridge-partners-announcement",
+      "date": "2026-05-05",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "pedernales-capital-pioneer-provisions-2019-11-11",
+    "date": "2019-11-11",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Pedernales Capital acquires Pioneer Provisions",
+    "gp": "pedernales-capital",
+    "company": "Pioneer Provisions",
+    "sector": "Food & Agriculture",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Pedernales Capital",
+    "summary": "Acquired Pioneer Provisions (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/pedernales-capital-announcement",
+      "date": "2026-01-24",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "lone-star-health-coastal-health-2019-11-07",
+    "date": "2019-11-07",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Lone Star Health Partners acquires Coastal Health",
+    "gp": "lone-star-health",
+    "company": "Coastal Health",
+    "sector": "Healthcare Services",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Lone Star Health Partners",
+    "summary": "Acquired Coastal Health (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/lone-star-health-partners-announcement",
+      "date": "2026-08-02",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "north-texas-mezz-apex-manufacturing-2019-10-06",
+    "date": "2019-10-06",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "North Texas Structured Capital acquires Apex Manufacturing",
+    "gp": "north-texas-mezz",
+    "company": "Apex Manufacturing",
+    "sector": "Industrials",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "North Texas Structured Capital",
+    "summary": "Acquired Apex Manufacturing (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/north-texas-structured-capital-announcement",
+      "date": "2026-02-10",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "gulf-stream-growth-longhorn-partners-2019-10-01",
+    "date": "2019-10-01",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Gulf Stream Growth Partners acquires Longhorn Partners",
+    "gp": "gulf-stream-growth",
+    "company": "Longhorn Partners",
+    "sector": "Business Services",
+    "city": "Houston",
+    "seller": "Not disclosed",
+    "buyer": "Gulf Stream Growth Partners",
+    "summary": "Acquired Longhorn Partners (Houston) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/gulf-stream-growth-partners-announcement",
+      "date": "2026-03-30",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-apex-industries-2019-09-23",
+    "date": "2019-09-23",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Barton Creek Holdings acquires Apex Industries",
+    "gp": "barton-creek-fo",
+    "company": "Apex Industries",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Barton Creek Holdings",
+    "summary": "Acquired Apex Industries (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "san-jacinto-partners-granite-supply-2019-07-13",
+    "date": "2019-07-13",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "San Jacinto Partners acquires Granite Supply",
+    "gp": "san-jacinto-partners",
+    "company": "Granite Supply",
+    "sector": "Distribution & Logistics",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "San Jacinto Partners",
+    "summary": "Acquired Granite Supply (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/san-jacinto-partners-announcement",
+      "date": "2026-09-01",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "cowtown-capital-prairie-industries-2019-03-08",
+    "date": "2019-03-08",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Cowtown Capital Partners acquires Prairie Industries",
+    "gp": "cowtown-capital",
+    "company": "Prairie Industries",
+    "sector": "Industrials",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Cowtown Capital Partners",
+    "summary": "Acquired Prairie Industries (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/cowtown-capital-partners-announcement",
+      "date": "2026-02-11",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "barton-creek-fo-cedar-construction-services-2019-02-19",
+    "date": "2019-02-19",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Barton Creek Holdings acquires Cedar Construction Services",
+    "gp": "barton-creek-fo",
+    "company": "Cedar Construction Services",
+    "sector": "Infrastructure Services",
+    "city": "San Antonio",
+    "seller": "Not disclosed",
+    "buyer": "Barton Creek Holdings",
+    "summary": "Acquired Cedar Construction Services (San Antonio) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/barton-creek-holdings-announcement",
+      "date": "2026-05-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "mesquite-industrial-canyon-distribution-2019-02-11",
+    "date": "2019-02-11",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Mesquite Industrial Partners acquires Canyon Distribution",
+    "gp": "mesquite-industrial",
+    "company": "Canyon Distribution",
+    "sector": "Distribution & Logistics",
+    "city": "Fort Worth",
+    "seller": "Not disclosed",
+    "buyer": "Mesquite Industrial Partners",
+    "summary": "Acquired Canyon Distribution (Fort Worth) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/mesquite-industrial-partners-announcement",
+      "date": "2025-11-19",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  },
+  {
+    "id": "highland-park-cap-sabine-software-2019-01-02",
+    "date": "2019-01-02",
+    "type": "Platform acquisition",
+    "status": "closed",
+    "headline": "Highland Park Capital Advisors acquires Sabine Software",
+    "gp": "highland-park-cap",
+    "company": "Sabine Software",
+    "sector": "Software & Tech-Enabled Services",
+    "city": "Austin",
+    "seller": "Not disclosed",
+    "buyer": "Highland Park Capital Advisors",
+    "summary": "Acquired Sabine Software (Austin) as a new platform.",
+    "source": {
+      "label": "Press announcement (fictional)",
+      "url": "https://news.example.org/highland-park-capital-advisors-announcement",
+      "date": "2026-02-12",
+      "fields": [
+        "transactions",
+        "fund"
+      ]
+    },
+    "is_sample": true
+  }
+]

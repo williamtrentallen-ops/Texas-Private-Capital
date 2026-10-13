@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rq1",
+    "stage": "review",
+    "firm": "lone-star-health",
+    "url": "https://lonestarhealthpartners.example.com/criteria",
+    "retrieved": "2026-10-10",
+    "status": "Extraction complete — conflict detected",
+    "changes": [
+      {
+        "field": "Target EBITDA",
+        "old": "$3M – $20M",
+        "new": "$5M – $25M",
+        "passage": "We partner with healthcare services businesses generating $5 million to $25 million of EBITDA."
+      },
+      {
+        "field": "Current priorities",
+        "old": "…paused on behavioral health platforms…",
+        "new": "Resumed behavioral health platform search",
+        "passage": "We are actively seeking a behavioral health platform in Texas and the Southeast."
+      }
+    ],
+    "flags": [
+      "Conflict: website EBITDA range differs from firm confirmation dated Jun 20, 2026. Firm confirmation is more recent than prior crawl but older than this page."
+    ],
+    "is_sample": true
+  },
+  {
+    "id": "rq2",
+    "stage": "review",
+    "firm": "brazos-river-fo",
+    "url": "https://brazosriverfamilyoffice.example.com/",
+    "retrieved": "2026-10-11",
+    "status": "Extraction complete — unsupported claim",
+    "changes": [
+      {
+        "field": "Equity check",
+        "old": "$20M – $120M (inferred)",
+        "new": "$25M – $75M",
+        "passage": "Typical equity investments of $25–75 million."
+      }
+    ],
+    "flags": [
+      "Field was previously inferred from transaction sizes; new public statement supersedes inference.",
+      "Unsupported: model proposed \"Backs first-time sponsors: Yes\" but no source passage was found. Dropped from proposal."
+    ],
+    "is_sample": true
+  },
+  {
+    "id": "rq3",
+    "stage": "extract",
+    "firm": "cowtown-capital",
+    "url": "https://cowtowncapitalpartners.example.com/about",
+    "retrieved": "2026-10-12",
+    "status": "Extracting fields",
+    "changes": [],
+    "flags": [],
+    "is_sample": true
+  },
+  {
+    "id": "rq4",
+    "stage": "collect",
+    "firm": "panhandle-holdings",
+    "url": "https://panhandleholdings.example.com/investments",
+    "retrieved": "2026-10-12",
+    "status": "Page returned HTTP 404 — existing record retained unchanged",
+    "changes": [],
+    "flags": [
+      "Inaccessible page: no fields modified. Last successful retrieval Apr 5, 2026."
+    ],
+    "error": true,
+    "is_sample": true
+  },
+  {
+    "id": "rq5",
+    "stage": "discover",
+    "firm": null,
+    "candidate": "Red River Equity Partners (candidate, Dallas)",
+    "url": "https://news.example.org/red-river-equity-fund-i",
+    "retrieved": "2026-10-09",
+    "status": "Candidate firm found in fund announcement — not yet collected",
+    "changes": [],
+    "flags": [
+      "Possible duplicate of \"Riverwalk Equity Partners\"? Name similarity 0.41 — below threshold, treated as new."
+    ],
+    "is_sample": true
+  },
+  {
+    "id": "rq6",
+    "stage": "discover",
+    "firm": null,
+    "candidate": "Mesquite Industrial Partners LLC",
+    "url": "https://news.example.org/mesquite-fund-v-close",
+    "retrieved": "2026-10-09",
+    "status": "Duplicate detected",
+    "changes": [],
+    "flags": [
+      "Duplicate of existing record \"Mesquite Industrial Partners\" (name similarity 0.97, same domain). Merge recommended."
+    ],
+    "is_sample": true
+  }
+]
